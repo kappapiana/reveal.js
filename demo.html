@@ -15,7 +15,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+		<link rel="stylesheet" href="css/theme/white.css" id="theme">
+		<link rel="stylesheet" href="css/theme/PITCHME.css">
+
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -81,13 +83,6 @@
 				</section>
 
 				<section>
-					<h2>Slides</h2>
-					<p>
-						Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a href="https://slides.com" target="_blank">https://slides.com</a>.
-					</p>
-				</section>
-
-				<section>
 					<h2>Point of View</h2>
 					<p>
 						Press <strong>ESC</strong> to enter the slide overview.
@@ -97,29 +92,43 @@
 					</p>
 				</section>
 
-				<section>
-					<h2>Touch Optimized</h2>
-					<p>
-						Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-					</p>
-				</section>
-
 				<section data-markdown>
 					<script type="text/template">
 						## Markdown support
 
 						Write content using inline or external Markdown.
-						Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+						Instructions and more info <strong>available</strong> in the [readme](https://github.com/hakimel/reveal.js#markdown).
 
-						```
-						<section data-markdown>
-						  ## Markdown support
+						</script>
+				</section>
 
-						  Write content using inline or external Markdown.
-						  Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-						</section>
-						```
+				<section data-markdown>
+					<script type="text/template">
+						## More markdown
+
+						This is gonna be the thing that we smoothly reharse
+
+						In a sane **environment**. This is <span class="fragment"> to	work <span class="fragment highlight-green">in this thing.</span>
+
+						<ul>
+							<li> not </li>
+							<li> Second thing</li>
+							<li> Third thing and more</li>
+						</ul>
+
+						</script>
+				</section>
+
+				<section data-markdown>
+					<script type="text/template">
+						## Some more text
+
+						* First things first;
+						* Second things later;
+						* Fuck off. |
+
 					</script>
+
 				</section>
 
 				<section>
@@ -127,7 +136,7 @@
 						<h2>Fragments</h2>
 						<p>Hit the next arrow...</p>
 						<p class="fragment">... to step through ...</p>
-						<p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
+						<p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span> <strong class="fragment">This is not!</strong></p>
 
 						<aside class="notes">
 							This slide has fragments which are also stepped through in the notes window.
@@ -141,7 +150,7 @@
 						<p class="fragment fade-out">fade-out</p>
 						<p class="fragment fade-up">fade-up (also down, left and right!)</p>
 						<p class="fragment current-visible">current-visible</p>
-						<p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
+						<p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue strong">blue</span> <span class="fragment highlight-green">green</span></p>
 					</section>
 				</section>
 

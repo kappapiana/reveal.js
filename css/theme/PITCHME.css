@@ -1,0 +1,114 @@
+
+/* .bottom {font-size: 0.5em !important;
+  position: fixed;
+  bottom: 5%;
+  margin-right: 10%;
+  margin-left: 5%;
+} */
+
+.fa-red {color: #cc0000; }
+
+/* .fa-red {color: blue; } */
+/* this is a test */
+
+.fa-green {color: darkgreen;}
+
+/* div.title {position: fixed;
+        top: 10px;
+        right: 10%;
+        max-width: 80%;} */
+
+div.long {font-size: 0.8em;}
+
+/*This is for logo*/
+
+body {
+    background-image: url(logo_array.png);
+    background-repeat: no-repeat;
+    background-position: 3% 3%;
+}
+
+/* end logo  */
+
+.reveal .slides table, .reveal .slides th, .reveal .slides td {
+   border: 0px;
+   }
+
+.reveal .slides td {min-width: 40%;}
+
+/* keep classes on top (bug?) */
+/*yes, it must be bug! */
+
+.reveal .slides {
+  font-size: 0.9em;
+    /* margin-left: -2%; */
+  /* margin-right: 3%; */
+}
+
+.reveal .slides section>* {
+        text-align: left;
+        line-height: 1.15em;
+        }
+
+.center img  {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 200px;
+   height: 200px;
+   margin-top: -250px !important;
+   margin-left: -400px !important;
+   border: 0px !important;
+       background: none !important;
+       box-shadow: none !important;
+}
+
+
+/*   {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -(X/2)px;
+    margin-top: -(Y/2)px;
+} */
+
+/*To keep elements more on top page*/
+/* div.dom {position: fixed; top: 10%;} */
+
+/*To keep elements more on the lower part*/
+/* div.bas {position: fixed; bottom: 15%;} */
+
+
+strong
+      {
+        color: red;
+      }
+
+
+  .reveal h1 {
+       text-shadow: 2px 2px 4px #ccc;
+       color: #dd0000;
+      }
+
+  .reveal h2,
+  .reveal h3,
+  .reveal h4,
+  .reveal h5,
+  .reveal h6  {
+        text-shadow: 2px 2px 2px #666;
+        color: #dd0000;
+      }
+
+  .reveal del {
+   text-decoration-line: line-through;
+     text-decoration-color: red;
+  }
+
+  .reveal .slides section .fragment.highlight-red.visible {
+    color: #ff2c2d;
+      font-weight: 700;
+    }
+
+  .reveal .slides section .fragment.highlight-green.visible {
+    color: #17ff2e;
+    font-weight: 700;}
