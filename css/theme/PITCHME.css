@@ -26,7 +26,7 @@ body:before {
     content:"";
     position: absolute;
     top: 200px;
-    left: -50px;
+    left: -50 px;
     background-image: url(logo_array.png);
     background-repeat: no-repeat;
     transform: rotate(-90deg);
