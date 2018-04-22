@@ -4,10 +4,10 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>reveal.js – The HTML Presentation Framework</title>
+		<title>reveal.js – A modified demo to show off</title>
 
-		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
-		<meta name="author" content="Hakim El Hattab">
+		<meta name="description" content="some useful stuff">
+		<meta name="author" content="Carlo Pina">
 
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -16,12 +16,14 @@
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/white.css" id="theme">
-		
+
 <!-- ADDED to match PITCHME custom styles (and not mess with the original CSS) -->
 		<link rel="stylesheet" href="css/theme/PITCHME.css">
 
 <!-- ADDED to Font awesome -->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- FIXME: at some point, make a local reference instead an online one -->
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -54,11 +56,15 @@
 					</p>
 				</section>
 
+<!-- Qui abbiamo inserito un gruppo di slide MARKDOWN -->
+
 				<section data-markdown="PITCHME.md"
 				data-separator="^---"
 				data-separator-vertical="(^\+\+\+$|^\+\+\+\?.*)"
 				data-notes="^Note:">
 				</section>
+
+<!-- Fine sezione MARKDOWN -->
 
 				<section>
 					<h2>Hello There</h2>
@@ -409,7 +415,7 @@ Reveal.addEventListener( 'customevent', function() {
 				history: true,
 				center: true,
 
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
+				transition: 'fade', // none/fade/slide/convex/concave/zoom
 
 				// More info https://github.com/hakimel/reveal.js#dependencies
 				dependencies: [

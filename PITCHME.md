@@ -19,7 +19,7 @@ https://array.eu
 
 ### _Database rights_ e copyright
 
-- Solo in Europa
+- Solo in  <span class="highlight-green">Europa</span>
 - Dati (non creativo, compilativo)
 - Diritto del "Costitutore" (chi effettua rilevanti investimenti per la raccolta, validazione, presentazione dei dati)
 non per la _produzione_ del dato
@@ -28,6 +28,14 @@ non per la _produzione_ del dato
     - Riutilizzo
 - Durata: 15 anni dall'ultimo investimento sostanziale
 
+---
+<!-- Questa è una sezione che contiene HTML puro inserita in Markdown -->
+
+  <h1>Reveal.js</h1>
+  <h3>The HTML Presentation Framework</h3>
+  <p>
+    <small>Created by <a href="http://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
+  </p>
 
 ---
 
@@ -107,7 +115,7 @@ Samba, attraverso la Protocol Freedom Information Foundation è diventata licenz
 
 Dopo poco Microsoft ha reso completamente pubbliche le stesse informazioni ed emesso la "Open Specification Promise", andando al di là di quanto era stata richiesta
 
-<https://msdn.microsoft.com/en-us/openspecifications/dn646765.aspx>
+https://msdn.microsoft.com/en-us/openspecifications/dn646765.aspx
 
 ---
 
@@ -124,7 +132,7 @@ La crittografia si basa su:
 
 ## Il caso DeCSS
 
-<https://it.wikipedia.org/wiki/DeCSS>
+https://it.wikipedia.org/wiki/DeCSS
 
 DVD Jon pubblica un programma che contiene le chiavi di crittografia utilizzate nella protezione dei DVD (CSS), il DeCSS.
 
@@ -147,16 +155,19 @@ Protezioni penali su presupposti diversi
 - TiVo, un popolare apparecchio in USA per registrare trasmissioni televisive (time shifting)con Linux embedded
 - Il software doveva essere firmato con una chiave segreta, non messa a disposizione di terzi
 - In pratica ciò ha frustrato il diritto di _modificare_ il software, pur concesso (obbligatoriamente) con la GPL v.2, perché il software modificato non poteva essere installato sulla piattaforma target.
-- In gergo questo fenomeno è stato chiamato "Tivoizzazione"  (<https://en.wikipedia.org/wiki/Tivoization>)
+- In gergo questo fenomeno è stato chiamato "Tivoizzazione"  (https://en.wikipedia.org/wiki/Tivoization)
 
 +++
+<!-- .slide: data-background-image="css/theme/logo_array.png" data-background-size="200px" data-background-color="#dddddd" data-background-position="top 20px left 20px" -->
+
+<!-- Qui abbiamo inserito un commento per dare un background diverso con un'immagine-->
+
 
 ## La reazione della GPL
 
 La GPL v.3 ha introdotto una clausola apposita per evitare la Tivoizzazione.
 
 Non solo deve essere fornito il codice completo necessario a compilare una versione alternativa del codice oggetto, devono essere fornite **complete informazioni di installazione** tra cui appunto eventuali chiavi di crittografia con cui il codice deve essere firmato, in un formato pubblicamente disponibile. (GPL v.3, section 6)
-
 
 ---
 
