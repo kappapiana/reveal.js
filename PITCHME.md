@@ -49,6 +49,9 @@ non per la _produzione_ del dato
     - Estrazione parte sostanziale
     - Riutilizzo
 - Durata: 15 anni dall'ultimo investimento sostanziale
+
+Note: questo testo non dovrebbe vedersi senon in S
+
 +++
 <!--Slide con FA ricordarsi di modificare il CSS per puntarlo localmente -->
 
