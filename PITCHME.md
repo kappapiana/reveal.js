@@ -14,12 +14,34 @@ https://array.eu
 </div>
 
 ---
+<!-- Questa è una sezione che contiene HTML puro inserita in Markdown -->
+
+<h1>Reveal.js</h1>
+<h3>The HTML Presentation Framework</h3>
+<p>
+<small>Created by <a href="http://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
+</p>
+
++++
+<!-- .slide: data-background-image="css/theme/logo_array.png" data-background-size="200px" data-background-color="#dddddd" data-background-position="top 20px left 20px" -->
+
+<!-- Qui abbiamo inserito un commento per dare un background diverso con un'immagine-->
+
+
+## La reazione della GPL
+
+La GPL v.3 ha introdotto una clausola apposita per evitare la Tivoizzazione.
+
+Non solo deve essere fornito il codice completo necessario a compilare una versione alternativa del codice oggetto, devono essere fornite **complete informazioni di installazione** tra cui appunto eventuali chiavi di crittografia con cui il codice deve essere firmato, in un formato pubblicamente disponibile. (GPL v.3, section 6)
+
+---
+<!-- Ricordare fragment può essere combinato con altre classi -->
 
 ## Ricordiamo le differenze:
 
 ### _Database rights_ e copyright
 
-- Solo in  <span class="highlight-green">Europa</span>
+- Solo in  <span class="fragment highlight-green">Europa</span>
 - Dati (non creativo, compilativo)
 - Diritto del "Costitutore" (chi effettua rilevanti investimenti per la raccolta, validazione, presentazione dei dati)
 non per la _produzione_ del dato
@@ -27,39 +49,27 @@ non per la _produzione_ del dato
     - Estrazione parte sostanziale
     - Riutilizzo
 - Durata: 15 anni dall'ultimo investimento sostanziale
++++
+<!--Slide con FA ricordarsi di modificare il CSS per puntarlo localmente -->
 
----
-<!-- Questa è una sezione che contiene HTML puro inserita in Markdown -->
+## Copyleft nei dati <i class="fa fa-arrow-right"></i> nel software?
 
-  <h1>Reveal.js</h1>
-  <h3>The HTML Presentation Framework</h3>
-  <p>
-    <small>Created by <a href="http://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
-  </p>
+Non esiste un vero "copyleft" per i database rights, a causa dei limitati diritti di esclusiva conferiti (riutilizzo, estrazione)
+
+- Non esiste una vera e propria opera derivata
+- What if licenza dati "Share alike?" (es CC-BY-SA)
+    - caso 1: dataset esteso <i class="fa fa-arrow-right"></i> licenza compatibile
+    - caso 2: dataset correlato <i class="fa fa-arrow-right"></i> non opera derivata
+    - caso 3: dataset inserito in software  database rights vs. copyright <span class="fragment"> <i class="fa fa-arrow-right"></i> <strong>nessuna licenza</strong></span>
+
+
+<span class="fragment">Non si applica dunque il copyleft al software, si possono usare due licenze diverse.</span>
 
 ---
 
 ## Licenze apposite
 
 A differenza dei brevetti, non è opportuno usare la licenza pubblica di software per licenziare i diritti sui dati. Usare una licenza apposita, separata, o meglio un waiver se possibile (per esempio CC0)
-
-+++
-
-## Copyleft nei dati <i class="fa fa-arrow-right"></i> nel software?
-
-Non esiste un vero "copyleft" per i database rights, a causa dei limitati diritti di esclusiva conferiti (riutilizzo, estrazione)
-
-<ul>
-<li class="fragment">Non esiste una vera e propria opera derivata</li>
-<li class="fragment">What if licenza dati "Share alike?" (es CC-BY-SA)</li>
-  <ul>
-    <li class="fragment">caso 1: dataset esteso <i class="fa fa-arrow-right"></i> licenza compatibile</li>
-    <li class="fragment">caso 2: dataset correlato <i class="fa fa-arrow-right"></i> non opera derivata</li>
-    <li class="fragment">caso 3: dataset inserito in software  database rights vs. copyright <span class="fragment"> <i class="fa fa-arrow-right"></i> <strong>nessuna licenza</strong></span> </li>
-  </ul>
-</ul>
-
-<span class="fragment">Non si applica dunque il copyleft al software, si possono usare due licenze diverse.</span>
 
 ---
 
@@ -122,11 +132,9 @@ https://msdn.microsoft.com/en-us/openspecifications/dn646765.aspx
 ## Un caso particolare di segreti: la Crittografia
 
 La crittografia si basa su:
-<ul>
-<li class="fragment">Qualcosa che solo qualcuno è (es.: biometria)</li>
-<li class="fragment">Qualcosa che solo qualcuno ha, possiede fisicamente (dispositivi, chiavi fisiche)</li>
-<li class="fragment">Qualcosa che solo qualcuno sa, possiede logicamente (informazioni **segrete**, come una chiave privata di crittografia)</li>
-</ul>
+- Qualcosa che solo qualcuno è (es.: biometria)
+- Qualcosa che solo qualcuno ha, possiede fisicamente (dispositivi, chiavi fisiche)
+- Qualcosa che solo qualcuno sa, possiede logicamente (informazioni **segrete**, come una chiave privata di crittografia)
 
 ---
 
@@ -156,18 +164,6 @@ Protezioni penali su presupposti diversi
 - Il software doveva essere firmato con una chiave segreta, non messa a disposizione di terzi
 - In pratica ciò ha frustrato il diritto di _modificare_ il software, pur concesso (obbligatoriamente) con la GPL v.2, perché il software modificato non poteva essere installato sulla piattaforma target.
 - In gergo questo fenomeno è stato chiamato "Tivoizzazione"  (https://en.wikipedia.org/wiki/Tivoization)
-
-+++
-<!-- .slide: data-background-image="css/theme/logo_array.png" data-background-size="200px" data-background-color="#dddddd" data-background-position="top 20px left 20px" -->
-
-<!-- Qui abbiamo inserito un commento per dare un background diverso con un'immagine-->
-
-
-## La reazione della GPL
-
-La GPL v.3 ha introdotto una clausola apposita per evitare la Tivoizzazione.
-
-Non solo deve essere fornito il codice completo necessario a compilare una versione alternativa del codice oggetto, devono essere fornite **complete informazioni di installazione** tra cui appunto eventuali chiavi di crittografia con cui il codice deve essere firmato, in un formato pubblicamente disponibile. (GPL v.3, section 6)
 
 ---
 
