@@ -111,18 +111,14 @@ AKA, legal constraints
 ---
 
 <div class="bottom">
-© 2018 - Carlo Piana, Giaime Ginesu (some rights reserved)
-
- Note: some slides originally included have been omitted  
-
-**Chatham House Rule waived.**
+<p>© 2018 - Carlo Piana, Giaime Ginesu (some rights reserved) <br/> **Chatham House Rule waived.**</p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
 
 
 Presentation originally made with [Gitpitch](https://gitpitch.com/) and [Reveal.js][81aa3153], a Markdown workflow
 
-Now in pure Reveal.js and Markdown
+<p>Now in pure Reveal.js and Markdown</p>
 
 </div>
 
