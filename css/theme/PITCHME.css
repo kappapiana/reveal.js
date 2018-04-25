@@ -23,12 +23,11 @@ div.long {font-size: 0.8em;}
 /*This is for logo*/
 
 
-body {
-  background-image: url(logo_array.png);
-  background-size: 200px;
+body:after {
+  content: url(logo_array.png);
+  size: 200px;
   background-position: top 10px left 10px;
-  background-repeat: no-repeat;
-  background-max-width: 210px !important;
+  
       }
 
 /* Questo piazzerebbe un logo verticale a sinistra, ma dà problemi su schermi piccoli */
