@@ -28,6 +28,7 @@ body {
   background-size: 200px;
   background-position: top 10px left 10px;
   background-repeat: no-repeat;
+  background-size: 100% 100%;
     }
 
 /* Questo piazzerebbe un logo verticale a sinistra, ma dà problemi su schermi piccoli */
