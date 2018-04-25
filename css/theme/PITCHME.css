@@ -25,7 +25,7 @@ div.long {font-size: 0.8em;}
 
 body:before {
   content: url(logo_array.png);
-  size: 200px 150px;
+  size: 200px 150px !important;
   position: absolute;
   top: 200px;
   width: 250px;
