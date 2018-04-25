@@ -22,17 +22,12 @@ div.long {font-size: 0.8em;}
 
 /*This is for logo*/
 
+.slide {background-image: url(logo_array.png);
+  background-size: 12%;
+  background-repeat: no-repeat;
+  background-position: top 20px left 15px;
 
-body:before {
-  content: url(logo_array.png);
-  size: 200px 150px !important;
-  position: absolute;
-  top: 200px;
-  width: 250px;
-  height: 47px;
-  display: block;
-  max-width: 200px !important;
-      }
+}
 
 /* Questo piazzerebbe un logo verticale a sinistra, ma dà problemi su schermi piccoli */
 
