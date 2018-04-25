@@ -1,7 +1,7 @@
 ## Challenges and tools in publishing open data
   <!-- .slide: data-background-image="markdown/assets/projects.png" data-background-size="600px" data-background-color=" " data-background-position="top 20px center" -->
 
-Carlo Piana    |  Giaime Ginesu
+Carlo Piana   |  Giaime Ginesu
 --|--
 **Array** studio legale  |  Regione Autonoma Sardegna
   https://array.eu   |  http://www.regione.sardegna.it/
@@ -9,7 +9,7 @@ Carlo Piana    |  Giaime Ginesu
 #### (Chatham House Rule Waived)
 
 ---
-  <!-- .slide: data-background-image="markdown/assets/projects.png" data-background-size="600px" data-background-color=" " data-background-position="top 20px center" -->
+  <!-- .slide: data-background-image="markdown/assets/projects.png" data-background-size="600px" data-background-color=" " data-background-position="top 20px center" data-background-max-width="200px" -->
 
 ## Consulting team:
 
