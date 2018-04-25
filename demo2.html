@@ -20,13 +20,35 @@
 <!-- ADDED to match PITCHME custom styles (and not mess with the original CSS) -->
 		<link rel="stylesheet" href="css/theme/PITCHME.css">
 
-<!-- ADDED to Font awesome -->
+<!-- ADDED to use Font awesome -->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<!-- FIXME: at some point, make a local reference instead an online one -->
+		<!-- FIXME: at some point, make a local reference instead an online one -->
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<style>
+
+/* Quick and dirty adding copyright disclaimer
+(change "content" to  adapt to special needs)*/
+
+		div.reveal::after {content: "©2018 Carlo Piana - Giaime Ginesu - Array https://array.eu";
+		  display: block;
+		  font-size: 0.4em !important;
+		  position: absolute;
+		  bottom: 8px;
+		  width: 100%;
+		  text-align: center;
+		  margin-left: auto;
+		  margin-right: auto;
+		  font-family: unset;
+		  font-style: unset;
+		}
+
+/* end disclaimer */
+
+		</style>
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -49,7 +71,10 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 
-				<!-- Qui abbiamo inserito un gruppo di slide MARKDOWN -->
+			<!-- MARKDOWN slides have been inserted	use "---" (three dashes) to separate slides and
+			+++ (three plus) to separate vertical slides -->
+
+<!-- CAMBIA la prima riga per usare un altro markdown -->
 
 				<section data-markdown="markdown/PITCHME.md"
 				data-separator="^---"
