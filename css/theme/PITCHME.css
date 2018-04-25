@@ -30,6 +30,7 @@ body:before {
   top: 200px;
   width: 250px;
   height: 47px;
+  max-width: 200px;
       }
 
 /* Questo piazzerebbe un logo verticale a sinistra, ma dà problemi su schermi piccoli */
