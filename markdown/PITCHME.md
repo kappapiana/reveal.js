@@ -9,7 +9,7 @@ Carlo Piana   |  Giaime Ginesu
 #### (Chatham House Rule Waived)
 
 ---
-  <!-- .slide: data-background-image="markdown/assets/projects.png" data-background-size="600px" data-background-color=" " data-background-position="top 20px center" data-background-max-width="200px" -->
+  <!-- .slide: data-background-image="markdown/assets/projects.png" data-background-size="600px" data-background-color=" " data-background-position="top 20px center" data-max-width="200px"-->
 
 ## Consulting team:
 
