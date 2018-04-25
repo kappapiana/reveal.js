@@ -1,7 +1,7 @@
 ## Challenges and tools in publishing open data
   <!-- .slide: data-background-image="markdown/assets/projects.png" data-background-size="600px" data-background-color=" " data-background-position="top 20px center" -->
 
-Carlo Piana TEST   |  Giaime Ginesu
+Carlo Piana TEST test   |  Giaime Ginesu
 --|--
 **Array** studio legale  |  Regione Autonoma Sardegna
   https://array.eu   |  http://www.regione.sardegna.it/
