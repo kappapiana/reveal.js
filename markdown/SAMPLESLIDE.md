@@ -26,6 +26,38 @@ No special context
 					data-notes="^Note:">
 				</section>
 
++++
+
+## Markdown main commands (recap)        
+
+* This is an unordered list
+* This is **bold**
+* This is _italic_ and also *this*
+  - This is a nested list
+  - inside an ordered list
+
+> this is a blockquote
+
+1. this is an ordered list
+2. second element
+  1. nested
+
++++
+## Seen as source:
+    ## Markdown main commands (recap)        
+
+    * This is an unordered list
+    * This is **bold**
+    * This is _italic_ and also *this*
+      - This is a nested list
+      - inside an ordered list
+
+    > this is a blockquote
+    
+    1. this is an ordered list
+    2. second element
+      1. nested
+
 
 +++
 
@@ -42,6 +74,18 @@ The slide is vertical, not horizontal
 <li class="fragment">Technical framework </li>
 <li class="fragment">Challenges </li>
 </ul>
+
++++
+
+## Seen as source
+
+    ## A slide with fragment
+
+    <ul>
+    <li class="fragment">Legal framework </li>
+    <li class="fragment">Technical framework </li>
+    <li class="fragment">Challenges </li>
+    </ul>
 
 
 +++
@@ -61,6 +105,25 @@ This makes the first ad third element appear at once, the second after them.
     <li class="fragment" data-fragment-index="1">Legal framework </li>
 </span>
 
++++
+
+## Seen as source
+
+    ## Same slide with fragment, in order
+
+    This makes the first ad third element appear at once, the second after them.
+
+    <ul>
+    <li class="fragment" data-fragment-index="1">Legal framework </li>
+    <li class="fragment" data-fragment-index="2">Technical framework </li>
+    <li class="fragment" data-fragment-index="1">Challenges </li>
+    <li class="fragment" data-fragment-index="3"> note `data-fragment-index` in the following code:</li>
+    </ul>
+    <span class="fragment" data-fragment-index="3">
+
+        <li class="fragment" data-fragment-index="1">Legal framework </li>
+    </span>
+
 
 ---
 
@@ -78,6 +141,21 @@ Some will become <strong><span class="fragment highlight-blue ">blue</span></str
 
 Some text will <span class="fragment fade-out">disappear here.</span> <span class="fragment fade-in">but some will appear</span>
 
++++
+
+## Seen as source
+
+    ## A slide with appearing fragment
+
+    Some text appears <span class="fragment"> after here.</span>
+
+    Some will become <strong><span class="fragment highlight-blue">
+    blue</span></strong> here.
+
+    Some text will <span class="fragment fade-out">disappear here.
+    </span> <span
+    class="fragment fade-in">but some will appear</span>
+
 ---
 We have a collection of Font Awesome stuff
 
@@ -85,7 +163,7 @@ We have a collection of Font Awesome stuff
 
     <i class="fa fa-camera-retro"></i>
 
-Per cercare le icone, controlla [qui](https://fontawesome.com/icons?d=gallery), ma ne abbiamo alcuni
+To find icons, check [here](https://fontawesome.com/icons?d=gallery), ma ne abbiamo alcuni
 
 <i class="fa fa-trademark"></i> <i class="fa fa-copyright"></i> <i class="fa fa-registered"></i> <i class="fa fa-arrow-right"></i>
 
@@ -121,7 +199,7 @@ A slide with a picture background
 
 ## A slide with text
 
-### Small text to provide context at the end and copyright attribution & stuff
+(Small text to provide context at the end and copyright attribution & stuff)
 
 
 <div class="bottom">
