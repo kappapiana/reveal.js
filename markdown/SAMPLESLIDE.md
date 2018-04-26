@@ -139,7 +139,7 @@ Some text appears <span class="fragment"> after here.</span>
 
 Some will become <strong><span class="fragment highlight-blue ">blue</span></strong> here.
 
-Some text will <span class="fragment fade-out">disappear here.</span> <span class="fragment fade-in">but some will appear</span>
+Some text will <i class="fa fa-arrow-right fa-green"></i><span class="fragment fade-out">disappear here.</span> <i class="fa fa-arrow-left fa-green"></i><span class="fragment fade-in">but some will appear</span>
 
 +++
 
@@ -169,6 +169,18 @@ To find icons, check [here](https://fontawesome.com/icons?d=gallery), ma ne abbi
 
 Don't forget you can add another class like fa-red: <i class="fa fa-camera-retro fa-red"></i> <i class="fa fa-arrow-up fa-green"></i> <i class="fa fa-bath fa-green"></i>
 
+
+<small>See the source to see how to use `@fa-something+` or `@fa-something class+` and then search & replace with a regexp. (content below)</small>
+
+<!-- Note, you can use "@fa-something+" as offered by gitpitch and use this regexp to search&replace
+
+from
+    \@fa-(.*?)\+
+to
+    <i class="fa fa-$1"></i>
+
+**** NOTE **** you need to close the @fa expression with a +  at the end so that also the classes are captured and preserved.
+    -->
 
 ---
 <!-- .slide: data-background-size="200px" data-background-color="#dddddd" data-background-position="top 20px left 20px" -->
