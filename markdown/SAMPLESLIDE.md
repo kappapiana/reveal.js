@@ -214,11 +214,11 @@ A slide with a picture background
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
 </p>
 
-Just find this line:
+Just find this line in the HTML file:
 
 		<link rel="stylesheet" href="css/theme/white.css" id="theme">
 
-and change "white" one of the other themes (small cap) preserving the `.css` bit.
+and change "`white`" one of the other themes (small cap) preserving the `.css` bit.
 
 ---
 
