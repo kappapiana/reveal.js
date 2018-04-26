@@ -26,6 +26,13 @@ No special context
 					data-notes="^Note:">
 				</section>
 
+
++++
+
+## Vertical slide
+
+The slide is vertical, not horizontal
+
 ---
 
 ## A slide with fragment
@@ -39,9 +46,21 @@ No special context
 
 +++
 
-## Vertical slide
+## Same slide with fragment, in order
 
-The slide is vertical, not horizontal
+This makes the first ad third element appear at once, the second after them.
+
+<ul>
+<li class="fragment" data-fragment-index="1">Legal framework </li>
+<li class="fragment" data-fragment-index="2">Technical framework </li>
+<li class="fragment" data-fragment-index="1">Challenges </li>
+<li class="fragment" data-fragment-index="3"> note `data-fragment-index` in the following code:</li>
+</ul>
+<span class="fragment" data-fragment-index="3">
+
+    <li class="fragment" data-fragment-index="1">Legal framework </li>
+</span>
+
 
 ---
 
