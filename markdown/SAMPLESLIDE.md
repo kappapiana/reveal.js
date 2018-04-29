@@ -209,6 +209,17 @@ A slide with a different background (see the comment in the markdown file)
 
 ---
 
+### A slide with a larger picture inside
+
+
+
+<img class="center-img-large" src="markdown/assets/OpenRAS_presentazione23marzo2018_ginesu4.gif" />
+
+
+
+
+---
+
 ## MOAR themes!
 
 <p>
