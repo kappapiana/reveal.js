@@ -205,25 +205,8 @@ A slide with a different background (see the comment in the markdown file)
 <img class="center-img" src="markdown/assets/OpenRAS_presentazione23marzo2018_ginesu4.gif" />
 
 
-
 ---
 
-<<<<<<< HEAD
-### A slide with a larger picture inside
-
-
-
-<img class="center-img-large" src="markdown/assets/OpenRAS_presentazione23marzo2018_ginesu4.gif" />
-
-
-
----
-
-
-## A slide with text
-
-Small text to provide context at the end and copyright attribution & stuff
-=======
 ## MOAR themes!
 
 <p>
@@ -251,11 +234,9 @@ and change "`white`" one of the other themes (small cap) preserving the `.css` b
 ---
 
 
-
 ## A slide with text
 
 (Small text to provide context at the end and copyright attribution & stuff)
->>>>>>> 43b8f3bc93027ba68bce16113df6af06e7a6544f
 
 
 <div class="bottom">
