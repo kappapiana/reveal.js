@@ -102,9 +102,9 @@ A slide with a different background (see the comment in the markdown file)
 ---
 <!-- .slide:  data-background-image="markdown/assets/OpenRAS_presentazione23marzo2018_ginesu4.gif"  -->
 
-<p class="fragment">
-A slide with a picture background
-</p>
+
+## A slide with a picture as background
+
 
 ---
 
@@ -118,10 +118,20 @@ A slide with a picture background
 
 ---
 
+### A slide with a larger picture inside
+
+
+
+<img class="center-img-large" src="markdown/assets/OpenRAS_presentazione23marzo2018_ginesu4.gif" />
+
+
+
+---
+
 
 ## A slide with text
 
-### Small text to provide context at the end and copyright attribution & stuff
+Small text to provide context at the end and copyright attribution & stuff
 
 
 <div class="bottom">
