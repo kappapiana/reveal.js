@@ -153,3 +153,9 @@ strong
   .reveal .slides section .fragment.highlight-green.visible {
     color: #17ff2e;
     font-weight: 700;}
+
+code {
+  background-color: #ccccccaa;
+    }
+.reveal code
+    {font-family: courier, monospace;}
