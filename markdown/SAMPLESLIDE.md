@@ -169,6 +169,8 @@ To find icons, check [here](https://fontawesome.com/icons?d=gallery), ma ne abbi
 
 Don't forget you can add another class like fa-red: <i class="fa fa-camera-retro fa-red"></i> <i class="fa fa-arrow-up fa-green"></i> <i class="fa fa-bath fa-green"></i>
 
+We have also special for larger <i class="fa fa-arrows-alt fa-2x"></i>  <i class="fa fa-copyright fa-red"></i> 
+
 
 <small>See the source to see how to use `@fa-something+` or `@fa-something class+` and then search & replace with a regexp. (content below)</small>
 
