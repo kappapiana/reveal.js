@@ -12,6 +12,12 @@ Change the logo to adapt the slide -->
 
 ---
 
+### Per seguire
+
+<img class="center-img" src="markdown/assets/barcode_torino.jpg" />
+
+---
+
 # Introduzione
 
 ---
@@ -141,7 +147,7 @@ Cosa serve per mantenere un marchio:
 
 ---
 
-## volgarizzazione
+## Volgarizzazione
 
 Perdita di capacità distintiva perché il nome diventa comune (es: _Cleenex_)
 

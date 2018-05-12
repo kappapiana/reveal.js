@@ -58,12 +58,13 @@ div.long {font-size: 0.8em;}
             display: block;
             margin-left: auto;
             margin-right: auto;
-            width: 75%;
-            max-height: 80%
+            max-width: 60%;
+            max-height: 800px;
             background: none !important;
             /* box-shadow: none !important; */
             border: 0px;
         }
+
 
     .reveal .center-img-large {
             display: block;
