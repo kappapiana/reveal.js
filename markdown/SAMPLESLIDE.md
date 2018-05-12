@@ -125,6 +125,25 @@ This makes the first ad third element appear at once, the second after them.
     </span>
 
 
++++
+
+## Fragments can even appear then disappear or else!
+
+
+<span class="fragment fade-in" data-fragment-index="1">
+  <span class="fragment highlight-blue" data-fragment-index="2">
+    <span class="fragment highlight-red" data-fragment-index="3">
+      <span class="fragment fade-out" data-fragment-index="5">
+      I'll fade in, then blue, then <span class="fragment highlight-blue" data-fragment-index="4">red</span> then out
+      </span>
+    </span>
+  </span>
+</span>
+
+<span class="fragment fade-in">
+  Then things can appear again (but not at the same place...)
+</span>
+
 ---
 
 ## A slide with hyperlinks
@@ -163,11 +182,11 @@ We have a collection of Font Awesome stuff
 
     <i class="fa fa-camera-retro"></i>
 
-To find icons, check [here](https://fontawesome.com/icons?d=gallery), ma ne abbiamo alcuni
+To find icons, check [here](https://fontawesome.com/icons?d=gallery), ma ne abbiamo alcuni (`pls remember`: always append "-fa")
 
-<i class="fa fa-trademark"></i> <i class="fa fa-copyright"></i> <i class="fa fa-registered"></i> <i class="fa fa-arrow-right"></i>
+<i class="fa fa-trademark"></i> <i class="fa fa-copyright"></i> <i class="fa fa-registered"></i> <i class="fa fa-arrow-right"></i> <i class="fa fa-android"></i> 
 
-Don't forget you can add another class like fa-red: <i class="fa fa-camera-retro fa-red"></i> <i class="fa fa-arrow-up fa-green"></i> <i class="fa fa-bath fa-green"></i>
+Don't forget you can add another class like fa-red: <i class="fa fa-american-sign-language-interpreting fa-red fa-2x"></i> <i class="fa fa-arrow-up fa-green"></i> <i class="fa fa-bath fa-green"></i>
 
 We have also special for larger <i class="fa fa-arrows-alt fa-2x"></i>  
 
@@ -197,6 +216,11 @@ A slide with a different background (see the comment in the markdown file)
 
 ## A slide with a picture as background
 
+
++++
+<!-- .slide:  data-background-iframe="https://www2.array.eu/"  -->
+
+### But you can have an entire website as your background!
 
 ---
 
