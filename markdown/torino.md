@@ -11,6 +11,7 @@ Carlo Piana
 Change the logo to adapt the slide -->
 
 ---
+<!-- .slide: data-background-color="#ccc" -->
 
 ### Per seguire
 
