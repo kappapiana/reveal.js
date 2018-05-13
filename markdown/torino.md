@@ -13,7 +13,6 @@ Change the logo to adapt the slide -->
 ---
 <!-- .slide: data-background-color="#ccc" -->
 
-### Per seguire
 
 <img class="center-img" src="markdown/assets/barcode_torino.jpg" />
 
