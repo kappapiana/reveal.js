@@ -185,6 +185,8 @@ Controllo della distribuzione in forma **binaria** <span class="fragment">
 
 Nonostante l'art. 52.3 e l'art. 52.2(C) della Convenzione Europea su Brevetti (CEB, EPC) i brevetti in Europa <span class="fragment">**esistono**</span>
 
+<i class="fa fa-exclamation-triangle fa-red fa-2x fragment"></i>
+
 ---
 
 ## Interazioni tra brevetto e copyright
