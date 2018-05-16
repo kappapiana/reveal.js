@@ -4,9 +4,9 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>First stab at a reveal.js presentation</title>
+		<title>Carlo Piana -- Software libero e diritti diversi dal copyright </title>
 
-		<meta name="description" content="some useful stuff">
+		<meta name="description" content="Carlo Piana">
 		<meta name="author" content="Carlo Piana">
 
 		<meta name="apple-mobile-web-app-capable" content="yes">
@@ -15,7 +15,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/new_white.css" id="theme">
+		<link rel="stylesheet" href="css/theme/white.css" id="theme">
 
 <!-- ADDED to match PITCHME custom styles (and not mess with the original CSS) -->
 		<link rel="stylesheet" href="css/theme/PITCHME.css">
@@ -33,8 +33,7 @@
 /* Quick and dirty adding copyright disclaimer
 (change "content" to  adapt to special needs)*/
 
-
-		div.reveal::after {content: "©2018 CHANGEME";
+		div.reveal::after {content: "©2018 Carlo Piana";
 		  display: block;
 		  font-size: 0.4em !important;
 		  position: absolute;
@@ -77,11 +76,11 @@
 
 <!-- CAMBIA la prima riga per usare un altro markdown -->
 
-				<section data-markdown="markdown/PITCHME.md"
-				data-separator="^---"
-				data-separator-vertical="(^\+\+\+$|^\+\+\+\?.*)"
-				data-notes="^Note:">
-			</section>
+				<section data-markdown="markdown/torino.md"
+					data-separator="^---"
+					data-separator-vertical="(^\+\+\+$|^\+\+\+\?.*)"
+					data-notes="^Note:">
+				</section>
 
 			<!-- Fine sezione MARKDOWN -->
 		</div>
@@ -95,12 +94,6 @@
 
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
-
-			 	width: "97%%",
-			 	height: "97%",
-				margin: 0,
-				minScale: 1,
-				maxScale: 1,
 				controls: true,
 				progress: true,
 				history: true,
