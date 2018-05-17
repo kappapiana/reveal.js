@@ -42,6 +42,14 @@ Sono rilevanti i seguenti diritti:
 
 ---
 
+## Ma prima...
+
+  <h1 class="fragment"> Quizzone!!!</h1>
+
+<span class="fragment"> Visitate: <https://pollev.com/carlopiana924> per favore </span>
+
+
+---
 ## Principali differenze
 
 Tra i principali diritti e il copyright
@@ -341,6 +349,37 @@ Non solo deve essere fornito il codice completo necessario a compilare una versi
 ## Grazie
 
 A disposizione per domande
+
+
+<div class="bottom">
+<p>© 2018 - Carlo Piana (some rights reserved) </p>
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
+</p>
+
+Presentation [Reveal.js][81aa3153] and a Markdown workflow
+
+</div>
+
+  [81aa3153]: https://revealjs.com/ "Reveal"
+
+---
+
+## Ma prima...
+
+  <h1 class="fragment"> Quizzone!!!</h1>
+
+<span> class="fragment"> Visitate: <https://pollev.com/carlopiana924> per favore </span>
+
+---
+
+## Grazie
+
+A disposizione per domande
+
+<span class="fragment">
+(Questa volta **Davvero**!)
+</span>
 
 
 <div class="bottom">

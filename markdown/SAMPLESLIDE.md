@@ -34,7 +34,7 @@ No special context
 * This is **bold**
 * This is _italic_ and also *this*
   - This is a nested list
-  - inside an ordered list
+  - inside an unordered list (ordered is the same, see below)
 
 > this is a blockquote
 
@@ -50,7 +50,7 @@ No special context
     * This is **bold**
     * This is _italic_ and also *this*
       - This is a nested list
-      - inside an ordered list
+      - inside an unordered list (ordered is the same, see below)
 
     > this is a blockquote
 
