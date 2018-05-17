@@ -10,6 +10,8 @@ Carlo Piana
 <!-- Remove the comment to remove the sample second logo  
 Change the logo to adapt the slide -->
 
+Note: https://www.polleverywhere.com/my/polls user pippo@piana.eu pw n3ZG6k3v6Rsv
+
 ---
 <!-- .slide: data-background-color="#ccc" -->
 
