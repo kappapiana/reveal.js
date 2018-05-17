@@ -126,12 +126,13 @@ strong
         color: red;
       }
 
-
+/* 
   .reveal h1 {
        text-shadow: 2px 2px 4px #ccc;
        color: #dd0000;
-      }
+      } */
 
+  .reveal h1,
   .reveal h2,
   .reveal h3,
   .reveal h4,
