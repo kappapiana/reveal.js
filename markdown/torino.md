@@ -214,7 +214,7 @@ Tipi di atteggiamento:
 
 * Nessuna previsione (tutte le licenze "vecchie")
 * Liberty or death (GPL v.2)
-* Termination for aggressive Licensing (Apache)
+* Termination for aggressive use (Apache)
 * Licenza sui contributi (Apache)
 * Licenza su ogni tipo di brevetto rilevante (GPL v.3)
 
