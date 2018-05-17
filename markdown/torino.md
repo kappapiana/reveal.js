@@ -44,7 +44,7 @@ Sono rilevanti i seguenti diritti:
 
   <h1 class="fragment"> Quizzone!!!</h1>
 
-<span> class="fragment"> Visitate: <https://pollev.com/carlopiana924> per favore </span>
+<span class="fragment"> Visitate: <https://pollev.com/carlopiana924> per favore </span>
 
 
 ---
