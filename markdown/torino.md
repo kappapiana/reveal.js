@@ -369,7 +369,7 @@ Presentation [Reveal.js][81aa3153] and a Markdown workflow
 
   <h1 class="fragment"> Quizzone!!!</h1>
 
-<span> class="fragment"> Visitate: <https://pollev.com/carlopiana924> per favore </span>
+<span class="fragment"> Visitate: <https://pollev.com/carlopiana924> per favore </span>
 
 ---
 
