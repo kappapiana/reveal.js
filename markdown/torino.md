@@ -44,8 +44,8 @@ Sono rilevanti i seguenti diritti:
 
   <h1 class="fragment"> Quizzone!!!</h1>
 
----
-<!-- .slide:  data-background-iframe="https://www.polleverywhere.com/my/polls"  -->
+/* ---
+<!-- .slide:  data-background-iframe="https://www.polleverywhere.com/my/polls"  --> */
 
 ---
 ## Principali differenze
@@ -367,8 +367,8 @@ Presentation [Reveal.js][81aa3153] and a Markdown workflow
 
   <h1 class="fragment"> Quizzone!!!</h1>
 
----
-<!-- .slide:  data-background-iframe="https://www.polleverywhere.com/my/polls"  -->
+/* ---
+<!-- .slide:  data-background-iframe="https://www.polleverywhere.com/my/polls"  --> */
 
 ---
 
