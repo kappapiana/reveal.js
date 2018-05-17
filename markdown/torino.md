@@ -44,7 +44,7 @@ Sono rilevanti i seguenti diritti:
 
   <h1 class="fragment"> Quizzone!!!</h1>
 
-Visitate: <https://pollev.com/carlopiana924> per favore
+<span> class="fragment"> Visitate: <https://pollev.com/carlopiana924> per favore </span>
 
 
 ---
@@ -367,9 +367,7 @@ Presentation [Reveal.js][81aa3153] and a Markdown workflow
 
   <h1 class="fragment"> Quizzone!!!</h1>
 
-
-Visitate: <https://pollev.com/carlopiana924> per favore
-
+<span> class="fragment"> Visitate: <https://pollev.com/carlopiana924> per favore </span>
 
 ---
 
