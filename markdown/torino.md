@@ -44,6 +44,8 @@ Sono rilevanti i seguenti diritti:
 
   <h1 class="fragment"> Quizzone!!!</h1>
 
+Visitate: <https://pollev.com/carlopiana924> per favore
+
 /* ---
 <!-- .slide:  data-background-iframe="https://www.polleverywhere.com/my/polls"  --> */
 
@@ -366,6 +368,9 @@ Presentation [Reveal.js][81aa3153] and a Markdown workflow
 ## Ma prima...
 
   <h1 class="fragment"> Quizzone!!!</h1>
+
+
+Visitate: <https://pollev.com/carlopiana924> per favore
 
 /* ---
 <!-- .slide:  data-background-iframe="https://www.polleverywhere.com/my/polls"  --> */
