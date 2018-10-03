@@ -13,13 +13,14 @@ Change the logo to adapt the slide -->
 
 ---
 
-## Some reality check test
+## Reality check test
 
-Some questions
+First, ask yourself some questions:
 
-* Why are we discussing Free software is any relevant?
-* Who is using Free Software anyway?
-* Mostly, why are you speaking Free software? Do you mean open source?
+* **Why** are we discussing Free (open source) software is any relevant?
+* **Who** is using Free Software anyway?
+
+<p class="fragment fade-in">**Now my turn!**</p>
 
 ---
 
