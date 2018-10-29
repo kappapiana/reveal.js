@@ -1,12 +1,11 @@
-
-  <!-- .slide: data-background-image="markdown/assets/logo_array.png" data-background-size="20%" data-background-color=" " data-background-position="bottom 200px right 40%" data-max-width="200px"-->
+<!-- .slide: data-background-image="markdown/assets/logo_array.png" data-background-size="20%" data-background-color=" " data-background-position="bottom 200px right 40%" data-max-width="200px"-->
 
 # Software libero e open source
 
 ### un'introduzione
 
 Carlo Piana  
-<span class="fa-red">**Array**</span> 
+<span class="fa-red">**Array**</span>
 https://array.eu
 
 ---
