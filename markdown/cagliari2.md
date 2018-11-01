@@ -132,7 +132,43 @@ Art. 108
 
 > <div class="fragment highlight-grey"> Wrap up!</div>
 
+
 ---
+<!-- .slide:  data-background-image="markdown/assets/questions.jpg"  -->
+
+<div class="dom">
+<h1>Domande?</h1>
+</div>
+
+---
+<!-- .slide: data-background-transition="none" data-background-image="markdown/assets/thanks.jpg"  -->
+
+<div class="dom">
+<h1> Grazie</h1>
+</div>
+<div class="bottom" style="background-color: rgba(250, 250, 200, 0.5); padding: 1em; margin: -0.8em;">
+per approfondimenti:  
+
+[Brevi cenni sull'universo (aperto)](http://www.techeconomy.it/2015/09/11/brevi-cenni-sulluniverso-aperto/)  
+
+[Licenze di software libero e modelli di business](http://www.techeconomy.it/2015/12/04/licenze-software-libero-modelli-business/)  
+
+[Una breve storia personale del software libero (open source)](http://www.techeconomy.it/2015/10/14/breve-storia-personale-software-libero-open-source/)  
+
+[Le licenze di software libero (open source)](http://www.techeconomy.it/2015/11/13/licenze-software-libero-open-source/)  
+
+[Open Source, Software Libero e Altre Libertà](https://www.ledizioni.it/prodotto/c-piana-open-source-software-libero-altre-liberta/)  
+
+
+</div>
+
+---
+
+<img class="center-img" src="markdown/assets/book_piana.jpg" />
+
+
+---
+
 <!-- .slide: data-background-image="markdown/assets/projects2.png" data-background-size="558px" data-background-color=" " data-background-position="bottom 20px center" data-max-width="200px"-->
 
 ## Grazie   
@@ -143,8 +179,13 @@ Art. 108
 <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
 </p>
 
-Presentation [Reveal.js][81aa3153] and a Markdown workflow
+Presentazione realizzata con Markdown ([Github][557f335d])  e [Reveal.js][81aa3153]
+
+Le immagini sono tutte in pubblico dominio, per quanto a conoscenza dell'autore. Nessuna garanzia esplicita o implicita viene fornita.
+
 
 </div>
+
+  [557f335d]: https://github.com/about "Github"
 
   [81aa3153]: https://revealjs.com/ "Reveal"
