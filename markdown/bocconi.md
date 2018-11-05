@@ -6,7 +6,7 @@ Carlo Piana
 **Array** studio legale
   https://array.eu   
 
-General Counsel for the Free Softare Foundation Europe
+General Counsel for the Free Software Foundation Europe
 
 <!-- Remove the comment to remove the sample second logo  
 Change the logo to adapt the slide -->
