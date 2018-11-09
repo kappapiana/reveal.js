@@ -44,6 +44,18 @@ Munich, November 2018
 <li class="fragment">Patch</li>
 <li class="fragment">Upstream / downstream</li>
 
++++
+
+## A simple branching
+
+<img class="center-img-large" src="markdown/assets/Branch.png" />
+
++++
+
+## A more complex one
+
+<img class="center-img-large" src="markdown/assets/branch-complex.png" />
+
 ---
 
 ## The 3 (4) states of being a file in git
@@ -58,7 +70,7 @@ Munich, November 2018
 ## Unleash the power of git
 <ul>
   <li class="fragment">Use branches to review the work, then commit (level: **advanced**)</li>
-  <li class="fragment">With text files, everything makes more sense (level: **pro**)</li>
+  <li class="fragment">With **text files**, everything makes more sense (level: **pro**)</li>
   <li class="fragment">Open a branch or repository for your client and pull/push modifications there (level: **guru**)</li>
   <li class="fragment">A secret: these slides are markdown+basic html </li>
 </ul>
