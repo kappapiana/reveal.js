@@ -7,15 +7,16 @@ Carlo Piana
 **Array**
   https://array.eu   
 
-
+Munich, November 2018
 ---
 
 ## What's the matter?
 
-- Cooperative writing
+- Cooperative writing, a nightmare for a lawyer and a developer alike
 - Do you trust your counterparts?
 - How do you deal with drafting?
-- How many draft copies of your contract you have and how can you track who's modified what?
+- How many draft copies of your contract do you have and how can you track who's modified what?
+<li class="fragment"> Is there a better way?</li>
 
 ---
 
@@ -54,7 +55,14 @@ Carlo Piana
 
 ---
 
-
+## Unleash the power of git
+<ul>
+  <li class="fragment">Use branches to review the work, then commit (level: **advanced**)</li>
+  <li class="fragment">With text files, everything makes more sense (level: **pro**)</li>
+  <li class="fragment">Open a branch or repository for your client and pull/push modifications there (level: **guru**)</li>
+  <li class="fragment">A secret: these slides are markdown+basic html </li>
+</ul>
+---
 <!-- .slide:  data-background-image="markdown/assets/questions.jpg"  -->
 
 <div class="dom">
