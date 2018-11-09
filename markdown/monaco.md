@@ -5,7 +5,7 @@
 Carlo Piana
 
 **Array**
-  https://array.eu   
+  https://array.eu 
 
 Munich, November 2018
 ---
@@ -103,7 +103,7 @@ Munich, November 2018
 
 <div class="bottom">
 <p>© 2018 - Carlo Piana (some rights reserved) </p>
-<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 </p>
 
 Presentation [Reveal.js][81aa3153] and a [Markdown](https://daringfireball.net/projects/markdown/syntax) workflow
