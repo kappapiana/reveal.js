@@ -69,11 +69,25 @@ Munich, November 2018
 
 ## Unleash the power of git
 <ul>
-  <li class="fragment">Use branches to review the work, then commit (level: **advanced**)</li>
-  <li class="fragment">With **text files**, everything makes more sense (level: **pro**)</li>
-  <li class="fragment">Open a branch or repository for your client and pull/push modifications there (level: **guru**)</li>
-  <li class="fragment">A secret: these slides are markdown+basic html </li>
+  <li class="fragment">Use branches to review the work, then commit <span class="fragment">(level: **advanced**)</span></li>
+  <li class="fragment">With **text files**, everything makes more sense <span class="fragment">(level: **pro**)</span></li>
+  <li class="fragment">Open a branch or repository for your client and pull/push modifications there <span class="fragment">(level: **guru**)</span></li>
+  <li class="fragment">A secret: these slides are just markdown+basic html </li>
 </ul>
+
+<code class="fragment">
+    ## Unleash the power of git
+    <ul>
+      <li class="fragment">Use branches to review the work, then commit <span class="fragment">
+      (level: **advanced**)</span></li>
+      <li class="fragment">With **text files**, everything makes more sense <span class="fragment">
+      (level: **pro**)</span></li>
+      <li class="fragment">Open a branch or repository for your client and pull/push
+      modifications there <span class="fragment">(level: **guru**)</span></li>
+      <li class="fragment">A secret: these slides are just markdown+basic html </li>
+    </ul>
+</code>
+
 ---
 <!-- .slide:  data-background-image="markdown/assets/questions.jpg"  -->
 
