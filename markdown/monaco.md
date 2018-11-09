@@ -31,7 +31,8 @@ Munich, November 2018
     <li class="fragment"> Staging + development instance </li>
     <li class="fragment"> local + "public hub" (es Github) </li>
     <li class="fragment"> local + public + upstream </li>
-    <li class="fragment"> sky's the limit </li>
+    <li class="fragment"> sky's the limit!</li>
+    <li class="fragment"> (graphical apps are available)</li>
 </ul>
 
 ---
@@ -42,6 +43,7 @@ Munich, November 2018
 <li class="fragment">Branching</li>
 <li class="fragment">"Fork"</li>
 <li class="fragment">Patch</li>
+<li class="fragment">Pull request</li>
 <li class="fragment">Upstream / downstream</li>
 
 +++
