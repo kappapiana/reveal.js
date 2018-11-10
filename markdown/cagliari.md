@@ -243,16 +243,15 @@ Oggetto della tutela
 <h1> Grazie</h1>
 per approfondimenti:  
 
-[Brevi cenni sull'universo (aperto)](http://www.techeconomy.it/2015/09/11/brevi-cenni-sulluniverso-aperto/)  
+[Brevi cenni sull'universo (aperto)](http://www.techeconomy.it/2015/09/11/brevi-cenni-sulluniverso-aperto/)
 
-[Licenze di software libero e modelli di business](http://www.techeconomy.it/2015/12/04/licenze-software-libero-modelli-business/)  
+[Licenze di software libero e modelli di business](http://www.techeconomy.it/2015/12/04/licenze-software-libero-modelli-business/)
 
-[Una breve storia personale del software libero (open source)](http://www.techeconomy.it/2015/10/14/breve-storia-personale-software-libero-open-source/)  
+[Una breve storia personale del software libero (open source)](http://www.techeconomy.it/2015/10/14/breve-storia-personale-software-libero-open-source/)
 
-[Le licenze di software libero (open source)](http://www.techeconomy.it/2015/11/13/licenze-software-libero-open-source/)  
+[Le licenze di software libero (open source)](http://www.techeconomy.it/2015/11/13/licenze-software-libero-open-source/)
 
-[Open Source, Software Libero e Altre Libertà](https://www.ledizioni.it/prodotto/c-piana-open-source-software-libero-altre-liberta/)  
-
+[Open Source, Software Libero e Altre Libertà](https://www.ledizioni.it/prodotto/c-piana-open-source-software-libero-altre-liberta/)
 
 ---
 
@@ -263,11 +262,11 @@ per approfondimenti:
 <!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 
-## Grazie   
+## Grazie
 
 <p>© 2018 - Carlo Piana (some rights reserved) </p>
 
-<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 </p>
 
 Presentazione realizzata con Markdown ([Github][557f335d])  e [Reveal.js][81aa3153]
