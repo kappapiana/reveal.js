@@ -1,4 +1,4 @@
-  <!-- .slide: data-background-image="markdown/assets/projects2.png" data-background-size="558px" data-background-color=" " data-background-position="bottom 20px center" data-max-width="200px"-->
+  <!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Diritto d'autore, diritti connessi e Beni culturali
 
@@ -12,6 +12,9 @@ Carlo Piana
 
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 ## Programma Generale
 
 - Giorno 1
@@ -27,32 +30,45 @@ Carlo Piana
   - Open access, open content, limiti.
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
+
 ## Reality check Quiz
 
-> <div class="fragment highlight-grey"> Non esistono risposte stupide, solo domande stupide ‒ autore ignoto</div>
+> <div class=" highlight-grey"> Non esistono risposte stupide, solo domande stupide ‒ autore ignoto</div>
 
 <ol>
-<li class="fragment">A cosa serve il diritto d'autore (in genere, la proprietà intellettuale)?</li>
-<li class="fragment">Cosa copre il diritto d'autore (quale ne è l'oggetto)?</li>
-<li class="fragment">Chi è il titolare del diritto d'autore?</li>
-<li class="fragment">Quanto dura il diritto d'autore?</li>
+<li >A cosa serve il diritto d'autore (in genere, la proprietà intellettuale)?</li>
+<li >Cosa copre il diritto d'autore (quale ne è l'oggetto)?</li>
+<li >Chi è il titolare del diritto d'autore?</li>
+<li >Quanto dura il diritto d'autore?</li>
 </ol>
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 
 ## Il diritto d'autore
 
-<li class="fragment"> Storia, evoluzioni</li>
-<li class="fragment"> A cosa serve</li>
-<li class="fragment"> Come si trasmette</li>
-<li class="fragment"> Quanto dura </li>
+<li > Storia, evoluzioni</li>
+<li > A cosa serve</li>
+<li > Come si trasmette</li>
+<li > Quanto dura </li>
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 ## Il diritto d'autore nei beni culturali
 
 - Oggetti diversi
-<li class="fragment">Raccogliamo esempi!</li>
+<li >Raccogliamo esempi!</li>
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 
 
 
@@ -64,6 +80,8 @@ Carlo Piana
 - Esaurimento (!)
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
 
 ## Quali diritti?
 
@@ -76,6 +94,8 @@ Carlo Piana
 - Noleggiare
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
 
 ## Il concetto di opera derivata
 
@@ -85,6 +105,9 @@ Carlo Piana
 - Funzionamento
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 
 ## I diritti morali
 
@@ -92,15 +115,17 @@ Caratteristiche:
 
 <ul>
 
-<li class="fragment"> Diritti personali, intrasmissibili </li>
-<li class="fragment"> Irrinunciabili </li>
-<li class="fragment"> Senza scadenza</li>
-<li class="fragment"> Ereditabili</li>
-<li class="fragment"> Onnipresenti?</li>
+<li > Diritti personali, intrasmissibili </li>
+<li > Irrinunciabili </li>
+<li > Senza scadenza</li>
+<li > Ereditabili</li>
+<li > Onnipresenti?</li>
 
 </ul>
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
 
 ## I diritti morali (segue)
 
@@ -113,6 +138,9 @@ Caratteristiche:
 - Opere architettoniche
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 
 ## Utilizzi liberi e levy
 
@@ -125,6 +153,9 @@ Caratteristiche:
 - Immagini a bassa risoluzione su Internet (art. 70 c. 1-bis)
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 
 ## I diritti connessi
 
@@ -141,26 +172,38 @@ Caratteristiche:
   - Ritratto
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
 
 ## In  particolare, la fotografia
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 
 ##  Parliamo di enforcement?
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 
 ## Database rights, banche dati
 
 (Segue testo della parte "copyright")
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
 
 Articolo 1
 
 2\. Ai fini della presente direttiva per «banca di dati» si intende una raccolta di opere, dati o altri elementi indipendenti sistematicamente o metodicamente disposti ed individualmente accessibili grazie a mezzi elettronici o in altro modo.
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
 
 Articolo 3
 
@@ -177,6 +220,9 @@ Oggetto della tutela
   i diritti esistenti su tale contenuto.
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
+
 
 ## Diritto sui generis
 
@@ -191,15 +237,10 @@ Oggetto della tutela
 - Limiti (Art. 102 ter, limiti generali, utilizzo delle informazioni)
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 
----
-<!-- .slide: data-background-transition="none" data-background-image="markdown/assets/thanks.jpg"  -->
-
-<div class="dom">
 <h1> Grazie</h1>
-</div>
-<div class="bottom" style="background-color: rgba(250, 250, 200, 0.5); padding: 1em; margin: -0.8em;">
 per approfondimenti:  
 
 [Brevi cenni sull'universo (aperto)](http://www.techeconomy.it/2015/09/11/brevi-cenni-sulluniverso-aperto/)  
@@ -213,20 +254,17 @@ per approfondimenti:
 [Open Source, Software Libero e Altre Libertà](https://www.ledizioni.it/prodotto/c-piana-open-source-software-libero-altre-liberta/)  
 
 
-</div>
-
 ---
 
 <img class="center-img" src="markdown/assets/book_piana.jpg" />
 
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
-<!-- .slide: data-background-image="markdown/assets/projects2.png" data-background-size="558px" data-background-color=" " data-background-position="bottom 20px center" data-max-width="200px"-->
 
 ## Grazie   
 
-<div class="bottom">
 <p>© 2018 - Carlo Piana (some rights reserved) </p>
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
@@ -237,7 +275,6 @@ Presentazione realizzata con Markdown ([Github][557f335d])  e [Reveal.js][81aa31
 Le immagini sono tutte in pubblico dominio, per quanto a conoscenza dell'autore. Nessuna garanzia esplicita o implicita viene fornita.
 
 
-</div>
 
   [557f335d]: https://github.com/about "Github"
 
