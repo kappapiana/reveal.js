@@ -25,12 +25,12 @@ div.long {font-size: 0.8em;}
 /*This is for logo*/
 /* Note: if logo moves away, it's a problem, now it stays in the same directory */
 
-.slide {background-image: url(punto_cartesiano.png);
+/* .slide {background-image: url(punto_cartesiano.png);
   background-size: 700px;
   background-repeat: no-repeat;
   background-position: top 10px center;
 
-}
+} */
 
 /* end logo  */
 

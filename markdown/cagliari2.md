@@ -1,4 +1,4 @@
-  <!-- .slide: data-background-image="markdown/assets/projects2.png" data-background-size="558px" data-background-color=" " data-background-position="bottom 20px center" data-max-width="200px"-->
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Diritto d'autore, diritti connessi e Beni culturali
 
@@ -12,6 +12,8 @@ Carlo Piana
 
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
+
 ## Programma Generale
 
 - Giorno 1
@@ -26,18 +28,21 @@ Carlo Piana
   - Open access, open content, limiti.
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Database rights, banche dati
 
 (Segue testo della parte "copyright")
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 Articolo 1
 
 2\. Ai fini della presente direttiva per «banca di dati» si intende una raccolta di opere, dati o altri elementi indipendenti sistematicamente o metodicamente disposti ed individualmente accessibili grazie a mezzi elettronici o in altro modo.
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 Articolo 3
 
@@ -54,6 +59,7 @@ Oggetto della tutela
   i diritti esistenti su tale contenuto.
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Diritto sui generis
 
@@ -69,12 +75,14 @@ Oggetto della tutela
 
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## La riproduzione dei beni culturali
 
 Segue il testo delle disposizioni rilevanti
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 Art.  107
 
@@ -83,6 +91,7 @@ Art.  107
 2\. È di regola vietata la riproduzione di beni culturali che consista nel trarre calchi, per contatto, dagli originali di sculture e di opere a rilievo in genere, di qualunque materiale tali beni siano fatti. Tale riproduzione è consentita solo in via eccezionale[...]. Sono invece consentiti, previa autorizzazione del soprintendente, i calchi da copie degli originali già esistenti nonché quelli ottenuti con tecniche che escludano il contatto diretto con l’originale.
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 Art. 108
 
@@ -93,6 +102,7 @@ Art. 108
 3. Nessun canone è dovuto per le riproduzioni richieste o eseguite da privati per uso personale o per motivi di studio, ovvero da soggetti pubblici o privati per finalità di valorizzazione, purché attuate senza scopo di lucro. [rimborso spese]
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 3-bis\. Sono in ogni caso libere le seguenti attività, svolte senza scopo di lucro, per finalità di studio, ricerca, libera manifestazione del pensiero o espressione creativa, promozione della conoscenza del patrimonio culturale:
 
@@ -101,6 +111,7 @@ Art. 108
 2\) la divulgazione con qualsiasi mezzo delle immagini di beni culturali, legittimamente acquisite, in modo da non poter essere ulteriormente riprodotte a scopo di lucro.
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Problemi di diritto comunitario
 
@@ -109,6 +120,7 @@ Art. 108
 - Discriminazione enti pubblici italiani / soggetti privati e soggetti pubblici europei (viola Art. 114 TFEU)
 
 +++
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Altre assurdità
 
@@ -119,34 +131,33 @@ Art. 108
 - Ma soprattutto: **qual è la durata** del diritto? Un diritto eterno?
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Apprendisti stregoni fanno cattive leggi
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Open Content, Open data
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 ## Ok, per oggi basta
 
-> <div class="fragment highlight-grey"> Wrap up!</div>
+> <div class=""> Wrap up!</div>
 
 
 ---
-<!-- .slide:  data-background-image="markdown/assets/questions.jpg"  -->
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
-<div class="dom">
 <h1>Domande?</h1>
-</div>
 
 ---
-<!-- .slide: data-background-transition="none" data-background-image="markdown/assets/thanks.jpg"  -->
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
-<div class="dom">
 <h1> Grazie</h1>
-</div>
-<div class="bottom" style="background-color: rgba(250, 250, 200, 0.5); padding: 1em; margin: -0.8em;">
+
 per approfondimenti:  
 
 [Brevi cenni sull'universo (aperto)](http://www.techeconomy.it/2015/09/11/brevi-cenni-sulluniverso-aperto/)  
@@ -160,20 +171,18 @@ per approfondimenti:
 [Open Source, Software Libero e Altre Libertà](https://www.ledizioni.it/prodotto/c-piana-open-source-software-libero-altre-liberta/)  
 
 
-</div>
-
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
 <img class="center-img" src="markdown/assets/book_piana.jpg" />
 
 
 ---
+<!-- .slide: data-background-image="markdown/assets/big_back.png"  data-background-color=" " data-background-position="bottom 0px center" data-max-width="100%" -->
 
-<!-- .slide: data-background-image="markdown/assets/projects2.png" data-background-size="558px" data-background-color=" " data-background-position="bottom 20px center" data-max-width="200px"-->
 
 ## Grazie   
 
-<div class="bottom">
 <p>© 2018 - Carlo Piana (some rights reserved) </p>
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
@@ -184,7 +193,6 @@ Presentazione realizzata con Markdown ([Github][557f335d])  e [Reveal.js][81aa31
 Le immagini sono tutte in pubblico dominio, per quanto a conoscenza dell'autore. Nessuna garanzia esplicita o implicita viene fornita.
 
 
-</div>
 
   [557f335d]: https://github.com/about "Github"
 

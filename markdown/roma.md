@@ -4,7 +4,7 @@
 
 ### un'introduzione
 
-Carlo Piana  
+Carlo Piana
 <span class="fa-red">**Array**</span>
 https://array.eu
 
@@ -12,7 +12,7 @@ https://array.eu
 
 # Framework legale
 
-> Il software libero (open source) è un fenomeno giuridico  
+> Il software libero (open source) è un fenomeno giuridico
 > ‒ Carlo Piana
 
 ---
@@ -106,13 +106,13 @@ Le licenze pubbliche di software (libero/open source) esistono "da sempre" (BSD,
 
 Freedom:
 
-- To **run** the program  
+- To **run** the program
   <strong><span class="fragment">(_freedom 0_)</span></strong>
-- To **study** how the program works, **and change** it.  
+- To **study** how the program works, **and change** it.
   <strong><span class="fragment">(_freedom 1_)</span></strong>
-- To **redistribute copies** so you can help your neighbor  
+- To **redistribute copies** so you can help your neighbor
   <strong><span class="fragment">(_freedom 2_)</span></strong>
-- To distribute copies of **your modified versions** to others  
+- To distribute copies of **your modified versions** to others
   <strong><span class="fragment">(_freedom 3_)</span></strong>
 
 +++
@@ -423,7 +423,7 @@ per approfondimenti:
 
 [Brevi cenni sull'universo (aperto)](http://www.techeconomy.it/2015/09/11/brevi-cenni-sulluniverso-aperto/)  
 
-[Licenze di software libero e modelli di business](http://www.techeconomy.it/2015/12/04/licenze-software-libero-modelli-business/)  
+[Licenze di software libero e modelli di business](http://www.techeconomy.it/2015/12/04/licenze-software-libero-modelli-business/)
 
 [Una breve storia personale del software libero (open source)](http://www.techeconomy.it/2015/10/14/breve-storia-personale-software-libero-open-source/)  
 
@@ -444,9 +444,9 @@ per approfondimenti:
 
 <div class="bottom">
 <i class="fa fa-copyright fa-red"></i> 2017-2018 - Carlo Piana (some rights reserved)   
-Licenza Creative Commons by-SA 4.0 unported.  
+Licenza Creative Commons by-SA 4.0 unported.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 Le immagini sono tutte in pubblico dominio, per quanto a conoscenza dell'autore. Nessuna garanzia esplicita o implicita viene fornita.
 
