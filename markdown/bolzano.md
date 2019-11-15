@@ -17,42 +17,46 @@ Bolzano, 16 November 2019
 
 You think that because there is no licensing condition attached to the software, there is no restriction? **Think better!**
 
+<ul>
 <li class="fragment">Full copyright is by default</li>
 <li class="fragment">Seek license</li>
 <li class="fragment">Without a licence (or *license*), you are stuck with statutory provisions </li>
-
+</ul>
 
 ---
 ## Inbound vs Outbound Licensing, derivative software
 
 Nobody writes software from scratch!
 
+<ul>
 <li class="fragment">You take some code</li>
 <li class="fragment">That code has its own conditions</li>
 <li class="fragment">Conditions of software you are reusing is called **inbound** </li>
 <li class="fragment">Conditions of software you are *distributing* is called **outbound**</li>
 <li class="fragment">If software contains substantial fragments of other software, it is a **derivative**.</li>
 <li class="fragment">Derivative software needs permission from the original(s)</li>
-
+</ul>
 ---
 
 ## Why is it important to know?
 
 A license can be very simple and just permit whatever to whomever. But with most licenses, **permission** is granted only *provided that* you comply with **conditions**
 
+<ul>
 <li class="fragment">**If** condition is complied with, **then** you can {modify, distribute original or modified software}</li>
 <li class="fragment"> **If** condition **is not** complied with, **then** you cannot {modify, distribute original or modified software}</li>
+</ul>
 
 +++
 
 ## Is this "copyleft"?
 
 No, copyleft is a *subclass* of  Free Software conditions.
-
+<ul>
 <li class="fragment">Conditions impact on **outbound** software, and outbound license</li>
 <li class="fragment">One condition is "**inbound license == outbound license**"</li>
 <li class="fragment">Depending on the scope of this condition (just the library, the file or the entire derivative), we have "**strong**" or "**weak copyleft**"
-
+</li>
 ---
 
 ## A Clash of Licenses
@@ -73,9 +77,11 @@ Means *respect* conditions upon which you receive a Free Software *grant*
 
 ## Different strategies
 
+<ul>
 <li class="fragment">SPDX</li>
 <li class="fragment">Standards procedures (OpenChain)</li>
 <li class="fragment">Scanning</li>
+</ul>
 
 +++
 
@@ -97,17 +103,20 @@ Find more at <https://www.openchainproject.org/>
 
 ## Scanning
 
-<li class="fragment">Only for more complex projects, with many packages</li>
-<li class="fragment">Two goals:
 <ul>
-<li> "find cheaters"
-<li> find accurate licensing information in the text and record them
-</ul>
+<li class="fragment">Only for more complex projects, with many packages</li>
+<li class="fragment">Two goals:</li>
+
+  <ul class="fragment">
+  <li> "find cheaters"</li>
+  <li> find accurate licensing information in the text and record them</li>
+  </ul>
+
 <li class="fragment">Most popular: **Fossology** (open source project)</li>
-<li class="fragment">Needs to be included in CD/CI:
+<li class="fragment">Needs to be included in CD/CI:</li>
 <li class="fragment">CD/CI/**CC**</li>
 <li class="fragment">DepTree</li>
-
+  </ul>
 
 ---
 
