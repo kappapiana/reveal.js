@@ -96,7 +96,7 @@ Software Package Data Exchange
 
 ## Reuse
 
-* Tools and processes to make sure you offer simple and complete lincensing information
+* Tools and processes to make sure you offer simple and complete licensing information
 * <https://reuse.software/>
 
 
