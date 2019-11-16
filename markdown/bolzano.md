@@ -78,7 +78,7 @@ Means *respect* conditions upon which you receive a Free Software *grant*
 ## Different strategies
 
 <ul>
-<li class="fragment">SPDX</li>
+<li class="fragment">SPDX, Reuse </li>
 <li class="fragment">Standards procedures (OpenChain)</li>
 <li class="fragment">Scanning</li>
 </ul>
@@ -90,6 +90,15 @@ Means *respect* conditions upon which you receive a Free Software *grant*
 Software Package Data Exchange
 
 * An open *standard* to communicate data about components, their licensing conditions and more
+* <https://spdx.org/>
+
++++
+
+## Reuse
+
+* Tools and processes to make sure you offer simple and complete lincensing information
+* <https://reuse.software/>
+
 
 +++
 
