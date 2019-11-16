@@ -115,17 +115,15 @@ Find more at <https://www.openchainproject.org/>
 <ul>
 <li class="fragment">Only for more complex projects, with many packages</li>
 <li class="fragment">Two goals:</li>
-
   <ul class="fragment">
   <li> "find cheaters"</li>
   <li> find accurate licensing information in the text and record them</li>
   </ul>
-
 <li class="fragment">Most popular: **Fossology** (open source project)</li>
 <li class="fragment">Needs to be included in CD/CI:</li>
 <li class="fragment">CD/CI/**CC**</li>
 <li class="fragment">DepTree</li>
-  </ul>
+</ul>
 
 ---
 
@@ -154,7 +152,7 @@ Talk to us <!-- .element class="fragment" -->
 </p>
 
 Presentation made using [Reveal.js][81aa3153] and a [Markdown](https://daringfireball.net/projects/markdown/syntax) workflow
-  
+
 </div>
 
   [81aa3153]: https://revealjs.com/ "Reveal"
