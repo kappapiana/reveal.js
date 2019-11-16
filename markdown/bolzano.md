@@ -122,7 +122,10 @@ Find more at <https://www.openchainproject.org/>
 
 ## Where to find help
 
-FSFE's legal team <https://fsfe.org/activities/ftf/activities.en.html>
+<span>FSFE's legal team <https://fsfe.org/activities/ftf/activities.en.html></span>  <!-- .element: class="fragment" data-fragment-index="2" -->
+
+Talk to us <!-- .element class="fragment" -->
+
 
 
 ---
