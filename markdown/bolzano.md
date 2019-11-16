@@ -121,7 +121,7 @@ Find more at <https://www.openchainproject.org/>
   </ul>
 <li class="fragment">Most popular: **Fossology** (open source project)</li>
 <li class="fragment">Needs to be included in CD/CI:</li>
-<li class="fragment">CD/CI/**CC**</li>
+<li class="fragment">CD/CI/<strong class="fragment">CC</strong></li>
 <li class="fragment">DepTree</li>
 </ul>
 
