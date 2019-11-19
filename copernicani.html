@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Legal 101 &ndash; Piana </title>
+
+		<meta name="author" content="Carlo Piana">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/white.css" id="theme">
+		<!-- <link rel="stylesheet" href="css/theme/black.css" id="theme"> -->
+
+<!-- ADDED to match PITCHME custom styles (and not mess with the original CSS) -->
+		<link rel="stylesheet" href="css/theme/PITCHME_copernicani.css">
+
+<!-- ADDED to use Font awesome -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<!-- FIXME: at some point, make a local reference instead an online one -->
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<style>
+
+/* Quick and dirty adding copyright disclaimer
+(change "content" to  adapt to special needs)*/
+
+		div.reveal::after {content: "©2019 Carlo Piana - Copernicani";
+		  display: block;
+		  font-size: 0.4em !important;
+		  position: absolute;
+		  bottom: 8px;
+		  width: 100%;
+		  text-align: center;
+		  margin-left: auto;
+		  margin-right: auto;
+		  font-family: unset;
+		  font-style: unset;
+		}
+
+/* end disclaimer */
+
+		</style>
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+			<!-- MARKDOWN slides have been inserted	use "---" (three dashes) to separate slides and
+			+++ (three plus) to separate vertical slides -->
+
+<!-- CAMBIA la prima riga per usare un altro markdown -->
+
+				<section data-markdown="markdown/copernicani_milano.md"
+					data-separator="^---"
+					data-separator-vertical="(^\+\+\+$|^\+\+\+\?.*)"
+					data-notes="^Note:">
+				</section>
+
+			<!-- Fine sezione MARKDOWN -->
+		</div>
+
+
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				pdfSeparateFragments: false,
+				width: 1200,
+				// height: 1024,
+				margin: 0.1,
+				minScale: 0.2,
+				maxScale: 3,
+
+				transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/search/search.js', async: true },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
