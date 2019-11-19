@@ -23,7 +23,7 @@ div.long {font-size: 0.8em;}
 /*This is for logo*/
 /* Note: if logo moves away, it's a problem, now it stays in the same directory */
 
-.slides {background-image: url(logo_array.png);
+.slide-background {background-image: url(logo_array.png);
   background-size: 12.5%;
   background-repeat: no-repeat;
   background-position: top 20px left 15px;
