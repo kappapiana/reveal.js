@@ -9,6 +9,9 @@ Carlo Piana
 Milano, 24 novembre 2019
 
 ---
+<!-- .slide:  data-background-iframe="https://wall.sli.do/event/2wf1qxfp"  -->
+
+---
 
 ## Molto contenuto!
 
@@ -32,6 +35,8 @@ Milano, 24 novembre 2019
 
 <img class="center-img" src="markdown/assets/book_piana.jpg" />
 
+---
+<!-- .slide:  data-background-iframe="https://wall.sli.do/event/2wf1qxfp"  -->
 ---
 
 ## Grazie!
