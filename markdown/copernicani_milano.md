@@ -1,4 +1,4 @@
-# Storia del Software Libero (open source)
+# Storia (breve) del Software Libero (open source)
 
 
 Carlo Piana
