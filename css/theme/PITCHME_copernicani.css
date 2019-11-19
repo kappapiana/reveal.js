@@ -23,8 +23,8 @@ div.long {font-size: 0.8em;}
 /*This is for logo*/
 /* Note: if logo moves away, it's a problem, now it stays in the same directory */
 
-.slides {background-image: url(copernicani.png);
-  background-size: 12.5%;
+.slide-background {background-image: url(copernicani.png);
+  background-size: 7em;
   background-repeat: no-repeat;
   background-position: top 0px left 1px;
 
@@ -213,13 +213,13 @@ div.long {font-size: 0.8em;}
 
 strong
       {
-        color: red;
+        color: #0FBE7C;;
       }
 
 /*
   .reveal h1 {
        text-shadow: 2px 2px 4px #ccc;
-       color: #dd0000;
+       color: #0FBE7C;
       } */
 
   .reveal h1,
@@ -229,21 +229,21 @@ strong
   .reveal h5,
   .reveal h6  {
         text-shadow: 2px 2px 2px #666;
-        color: #dd0000;
+        color: #0FBE7C;
       }
 
   .reveal del {
    text-decoration-line: line-through;
-     text-decoration-color: red;
+     text-decoration-color: #0FBE7C;;
   }
 
   .reveal .slides section .fragment.highlight-red.visible {
-    color: #ff2c2d;
+    color: red;
       font-weight: 700;
     }
 
   .reveal .slides section .fragment.highlight-green.visible {
-    color: #17ff2e;
+    color: green;
     font-weight: 700;}
 
 code {
