@@ -164,6 +164,7 @@ div.long {font-size: 0.8em;}
         /* box-shadow: none !important; */
         border: 0px;
       }
+    .reveal ul {min-width: 80%;}
 
 
 

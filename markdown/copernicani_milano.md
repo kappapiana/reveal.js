@@ -14,6 +14,7 @@ Milano, 24 novembre 2019
 
 * Questo è un punto
 * Un punto molto lungo va qua. Ma molto molto più lungo.
+* Un punto molto lungo va qua. Ma molto molto più lungo. Ma ancora più lungo ancora. Forse di più.
 <li class="fragment">Qui ci va un fragment</li>
 
 ---
