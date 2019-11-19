@@ -12,19 +12,22 @@
 
 
 // Include theme-specific fonts
-@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+// @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
 
 
 // Override theme settings (see ../template/settings.scss)
-$backgroundColor: #fff;
+$backgroundColor: #fafafa;
+$blood: #d23;
 
 $mainColor: #222;
-$headingColor: #222;
+$headingColor: $blood;
 
-$mainFontSize: inherit;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingTextShadow: none;
+$mainFontSize: 42px;
+$mainFont: 'Open Sans', Helvetica, sans-serif;
+$headingFont: 'Lato', Helvetica, sans-serif;
+$headingTextShadow: 1px 2px black;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
 $headingFontWeight: 600;
@@ -32,9 +35,10 @@ $linkColor: #2a76dd;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
-$heading1Size: 2.25vmin;
-$heading2Size: 2vmin;
-$heading3Size: 1.3em;
+
+$heading1Size: 2.3em;
+$heading2Size: 1.6em;
+$heading3Size: 1.4em;
 $heading4Size: 1.0em;
 
 section.has-dark-background {
@@ -47,3 +51,19 @@ section.has-dark-background {
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------
+
+// Overrides ------------------------------
+
+.reveal .slides {
+        text-align: left;
+        line-height: 1.15em;
+        }
+
+.reveal strong {color: $blood;}
+
+.slide-background {background-image: url(logo_array.png);
+  background-size: 12.5%;
+  background-repeat: no-repeat;
+  background-position: top 20px left 15px;
+
+}
