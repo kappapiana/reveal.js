@@ -10,12 +10,6 @@ Milano, 24 novembre 2019
 
 ---
 
-## Where to find out more (advertisement)
-
-<img class="center-img" src="markdown/assets/book_piana.jpg" />
-
----
-
 ## Molto contenuto!
 
 * Questo è un punto
@@ -30,6 +24,12 @@ Milano, 24 novembre 2019
 * Questo è un punto
 * Un punto molto lungo va qua.
 * Ma molto molto più lungo.
+
+---
+
+## Where to find out more (advertisement)
+
+<img class="center-img" src="markdown/assets/book_piana.jpg" />
 
 ---
 
