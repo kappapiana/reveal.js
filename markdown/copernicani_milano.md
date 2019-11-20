@@ -39,6 +39,12 @@ Milano, 24 novembre 2019
 
 <span class="fragment"> **Richard M Stallman** (RMS, "inventore" del copyleft e definitore delle 4 libertà del Software Libero)</span>
 
++++
+
+<img class="center-img" src="markdown/assets/torvalds.jpg"  />
+
+<span class="fragment"> **Linus Torvalds** ("inventore" di Linux, implementazione libera di UNIX su i386, il kernel di sistema operativo più diffuso al mondo)</span>
+
 ---
 
 ## Le quattro libertà del software (FSF)
@@ -68,22 +74,14 @@ Freedom:
 
 ---
 
-## Modelli di sviluppo
-
-* Silos
-* Bazaar
-* Garage
-* ...
-
----
+<!--
+/* --- */
 
 ## Where to find out more (advertisement)
 
 <img class="center-img" src="markdown/assets/book_piana.jpg" />
 
----
-<!-- .slide:  data-background-iframe="https://wall.sli.do/event/2wf1qxfp"  -->
----
+-->
 
 ## Grazie!
 
