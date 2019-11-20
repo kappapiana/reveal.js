@@ -294,13 +294,19 @@ body {
   margin: -1em; }
 
 .reveal .bottom {
-  font-size: 0.6em !important;
+  font-size: 0.5em !important;
   display: block;
   /* position: fixed; */
   bottom: 5%;
   margin-top: 15%;
-  font-size: 0.4em !important;
-  font-family: sans-serif; }
+  font-family: sans-serif;
+  line-height: 1.6em; }
+
+.reveal .bottom p {
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px; }
 
 .reveal .center-img {
   display: block;
