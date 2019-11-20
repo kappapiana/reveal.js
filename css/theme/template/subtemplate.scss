@@ -1,0 +1,74 @@
+// This is the general overriding stuff//
+
+$mainColor: #222;
+$headingColor: $highlight_color;
+
+$mainFontSize: 44px;
+$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingTextShadow: 1px 2px black;
+$heading1TextShadow: $headingTextShadow;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: #2a76dd;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+
+section.has-dark-background {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #fff;
+	}
+}
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+// Overrides ------------------------------
+
+.reveal .slides {
+        text-align: left;
+        line-height: 1.15em;
+        }
+
+.reveal strong {color: $highlight_color;}
+
+.slide-background {
+// .slide-background {background-image: $logo_image;
+  background-size: 12.5%;
+  background-repeat: no-repeat;
+  background-position: top 20px left 15px;
+
+}
+
+.reveal .dom {
+		background-color: rgba(250, 250, 250, 0.4);
+		padding: 1em;
+		margin: -1em;
+		}
+
+
+.reveal .bottom {font-size: 0.6em !important;
+		display: block;
+		/* position: fixed; */
+		bottom: 5%;
+		margin-top: 15%;
+		font-size: 0.4em !important;
+		font-family: sans-serif;
+	}
+
+
+.reveal .center-img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 60%;
+		max-height: 550px;
+		background: none !important;
+		/* box-shadow: none !important; */
+		border: 0px;
+		position:  relative;
+}

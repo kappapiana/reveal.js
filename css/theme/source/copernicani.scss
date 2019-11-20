@@ -1,7 +1,9 @@
 /**
+ * BASED ON:
  * White theme for reveal.js. This is the opposite of the 'black' theme.
- *
  * By Hakim El Hattab, http://hakim.se
+ *
+ * AND on the new_white theme (Array theme)
  */
 
 
@@ -19,16 +21,29 @@
 
 // Override theme settings (see ../template/settings.scss)
 $backgroundColor: #fafafa;
-$highlight_color: #da2233;
-$heading1Size: 2.3em;
+$highlight_color: #0FBE7C;
+$heading1Size: 2em;
 $heading2Size: 1.38em;
 $heading3Size: 1.4em;
 $heading4Size: 1.0em;
 
 
-// Provide a logo
-.slide-background {background-image: url(logo_array.png);}
-
-
 // The old white stuff--------------------------
+// now in a subtemplate, so we can have local
+// changes
 @import "../template/subtemplate";
+// ---------------------------------------------
+
+
+// ***** everything underneath overrides -------
+// the template --------------------------------
+
+// ---------------------------------------------
+// Provide a logo
+.slide-background {background-image: url(copernicani.png);
+  background-size: 7em;
+  background-repeat: no-repeat;
+  background-position: top 0px left 1px;
+
+}
+// ---------------------------------------------
