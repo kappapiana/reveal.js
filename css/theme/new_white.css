@@ -4,7 +4,6 @@
  * By Hakim El Hattab, http://hakim.se
  */
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 .slide-background {
   background-image: url(logo_array.png); }
 

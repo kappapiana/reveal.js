@@ -12,6 +12,7 @@ Milano, 24 novembre 2019
 <!-- .slide:  data-background-iframe="https://wall.sli.do/event/2wf1qxfp"  -->
 
 ---
+
 # Vi dicono niente queste foto?
 
 +++
@@ -67,6 +68,7 @@ Freedom:
 <img class="center-img" src="markdown/assets/printer.jpg"  />
 
 ---
+<!-- .slide: data-transition="fade" -->
 
 ## Copyleft! (copyright, reversed)
 
