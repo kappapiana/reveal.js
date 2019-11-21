@@ -73,6 +73,18 @@ Freedom:
 
 <img class="center-img" src="markdown/assets/lock_copyleft.jpg"  />
 
+
+---
+
+## Principali condizioni
+
+Sono quasi sempre presenti in tutte le licenze:
+
+* Attribuzione (della paternità)
+* Esclusione di responsabilità
+* Share alike (usa la stessa licenza) <i class="fa fa-copyright fa-flip-horizontal fa-strong"></i>
+* Distribuisci il codice sorgente dell'opera derivata <i class="fa fa-copyright fa-flip-horizontal fa-strong"></i>
+
 ---
 
 ## Compliance

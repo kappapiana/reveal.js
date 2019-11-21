@@ -54,7 +54,7 @@ body {
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: uppercase;
-  text-shadow: 1px 2px black;
+  text-shadow: 1px 2px #222;
   word-wrap: break-word; }
 
 .reveal h1 {
@@ -70,7 +70,7 @@ body {
   font-size: 1em; }
 
 .reveal h1 {
-  text-shadow: 1px 2px black; }
+  text-shadow: 1px 2px #222; }
 
 /*********************************************
  * OTHER
@@ -327,3 +327,18 @@ body {
   background: none;
   box-shadow: none;
   border: 0px; }
+
+.small {
+  font-size: 0.6em !important;
+  font-family: sans-serif;
+  margin-right: 10%;
+  margin-left: 5%; }
+
+.fa-red {
+  color: #cc0000; }
+
+.fa-green {
+  color: darkgreen; }
+
+.fa-strong {
+  color: #da2233; }
