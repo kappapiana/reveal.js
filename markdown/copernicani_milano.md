@@ -1,5 +1,4 @@
-# Storia (breve) del Software Libero (open source)
-
+# Breve interoduzione al Software Libero <br/>(open source)
 
 Carlo Piana
 
@@ -9,7 +8,8 @@ Carlo Piana
 Milano, 24 novembre 2019
 
 ---
-<!-- .slide:  data-background-iframe="https://wall.sli.do/event/2wf1qxfp"  -->
+
+# Prima, una domanda
 
 ---
 
@@ -33,18 +33,17 @@ Milano, 24 novembre 2019
 <img class="center-img" src="markdown/assets/vint_cerf.jpg"  />
 
 <span class="fragment">**Vint Cerf** ("inventore" di Internet)</span>
-
-+++
-
-<img class="center-img" src="markdown/assets/stallman.jpg"  />
-
-<span class="fragment"> **Richard M Stallman** (RMS, "inventore" del copyleft e definitore delle 4 libertà del Software Libero)</span>
-
 +++
 
 <img class="center-img" src="markdown/assets/torvalds.jpg"  />
 
 <span class="fragment"> **Linus Torvalds** ("inventore" di Linux, implementazione libera di UNIX su i386, il kernel di sistema operativo più diffuso al mondo)</span>
+
++++
+
+<img class="center-img" src="markdown/assets/stallman.jpg"  />
+
+<span class="fragment"> **Richard M Stallman** (RMS, "inventore" di GNU, di Emacs, del copyleft e definitore delle 4 libertà del Software Libero)</span>
 
 ---
 
@@ -73,6 +72,23 @@ Freedom:
 ## Copyleft! (copyright, reversed)
 
 <img class="center-img" src="markdown/assets/lock_copyleft.jpg"  />
+
+---
+
+## Compliance
+
+<li class="fragment"> Licenza di software libero **==** permesso condizionato, ma!</li>
+<li class="fragment"> Solo per chi *distribuisce* software. </li>
+<li class="fragment"> Per gli altri, nessuna preoccupazione</li>
+
+---
+
+## Public money, public code
+
+<img class="fragment center-img-large" src="markdown/assets/PMPC_sticker_v1.svg" style="height: 550px;" />
+
++++
+<!-- .slide: data-background-video="markdown/assets/pmpc.webm" -->
 
 ---
 
