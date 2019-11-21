@@ -89,9 +89,11 @@ Sono quasi sempre presenti in tutte le licenze:
 
 ## Compliance
 
+<ul>
 <li class="fragment"> Licenza di software libero **==** permesso condizionato, ma!</li>
 <li class="fragment"> Solo per chi *distribuisce* software. </li>
 <li class="fragment"> Per gli altri, nessuna preoccupazione</li>
+</ul>
 
 ---
 
