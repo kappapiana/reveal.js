@@ -32,6 +32,10 @@ Milano, 24 novembre 2019
 
 +++
 
+<img class="center-img-large" src="markdown/assets/linux.png"  />
+
++++
+
 <img class="center-img" src="markdown/assets/stallman.jpg"  />
 
 <span class="fragment"> **Richard M Stallman** (RMS, "inventore" di GNU, di Emacs, del copyleft e definitore delle 4 libertà del Software Libero)</span>
