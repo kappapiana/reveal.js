@@ -30,14 +30,9 @@ Milano, 24 novembre 2019
 
 +++
 
-<img class="center-img" src="markdown/assets/vint_cerf.jpg"  />
-
-<span class="fragment">**Vint Cerf** ("inventore" di Internet)</span>
-+++
-
 <img class="center-img" src="markdown/assets/torvalds.jpg"  />
 
-<span class="fragment"> **Linus Torvalds** ("inventore" di Linux, implementazione libera di UNIX su i386, il kernel di sistema operativo più diffuso al mondo)</span>
+<span class="fragment"> **Linus Torvalds** ("inventore" di Linux, implementazione libera di UNIX su i386, il **kernel** di sistema operativo più diffuso al mondo)</span>
 
 +++
 
