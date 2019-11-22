@@ -101,9 +101,6 @@ Sono quasi sempre presenti in tutte le licenze:
 
 <img class="fragment center-img-large" src="markdown/assets/PMPC_sticker_v1.svg" style="height: 550px;" />
 
-+++
-<!-- .slide: data-background-video="markdown/assets/pmpc.webm" -->
-
 ---
 
 <!--
