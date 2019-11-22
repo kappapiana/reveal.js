@@ -9,10 +9,6 @@ Milano, 24 novembre 2019
 
 ---
 
-# Prima, una domanda
-
----
-
 # Vi dicono niente queste foto?
 
 +++
