@@ -1,4 +1,4 @@
-# Breve interoduzione al Software Libero <br/>(open source)
+# Breve introduzione al Software Libero <br/>(open source)
 
 Carlo Piana
 
