@@ -38,7 +38,7 @@ Freedom:
 
 ---
 
-# Vi dicono niente queste foto?
+# Una prospettiva storica del software libero?
 
 +++
 
