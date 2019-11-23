@@ -14,8 +14,8 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #fafafa;
-  background-color: #fafafa; }
+  background: #fcfcfc;
+  background-color: #fcfcfc; }
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -273,7 +273,7 @@ body {
  *********************************************/
 @media print {
   .backgrounds {
-    background-color: #fafafa; } }
+    background-color: #fcfcfc; } }
 
 .reveal .slides {
   text-align: left;
