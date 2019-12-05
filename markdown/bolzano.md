@@ -54,8 +54,8 @@ A license can be very simple and just permit whatever to whomever. But with most
 No, copyleft is a *subclass* of  Free Software conditions.
 <ul>
 <li class="fragment">Conditions impact on **outbound** software, and outbound license</li>
-<li class="fragment">One condition is "**inbound license == outbound license**"</li>
-<li class="fragment">Depending on the scope of this condition (just the library, the file or the entire derivative), we have "**strong**" or "**weak copyleft**"
+<li class="fragment">One condition is <strong>"inbound license == outbound license"</strong></li>
+<li class="fragment">Depending on the scope of this condition (just the library, the file or the entire derivative), we have **"strong"** or **"weak copyleft"**
 </li>
 ---
 
