@@ -1,3 +1,10 @@
+---
+title: foo
+author: Carlo Piana
+theme: css/theme/copernicani.css
+verticalSeparator: ^\+\+\+
+---
+
 # Breve forse introduzione al Software Libero <br/>(open source)
 
 Carlo Piana
@@ -103,7 +110,7 @@ Sono quasi sempre presenti in tutte le licenze:
 ## Compliance
 
 <ul>
-<li > **Licenza** di software libero **==** permesso condizionato</li>
+<li class="fragment"> <strong>Licenza</strong> di software libero <strong>==</strong> permesso condizionato</li>
 <li class="fragment"> Devo rispettare le condizioni, <span class="fragment">ma!</span></li>
 <li class="fragment"> Solo per chi *distribuisce* software. </li>
 <li class="fragment"> Per gli altri, nessuna preoccupazione</li>

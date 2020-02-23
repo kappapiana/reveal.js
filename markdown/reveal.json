@@ -4,6 +4,7 @@
   "history": true,
   "center": true,
   "pdfSeparateFragments": false,
+  "width": 1080,
   "height": 800,
   "margin": 0.1,
   "minScale": 0.2,
