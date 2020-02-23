@@ -1,3 +1,10 @@
+---
+title: Free an open source software licensing
+author: Carlo Piana
+theme: css/theme/new_white.css
+verticalSeparator: ^\+\+\+  
+---
+
 # Free and open source software licensing
 
 
@@ -20,7 +27,7 @@ First, ask yourself some questions:
 * **Why** are we discussing Free (open source) software is any relevant?
 * **Who** is using Free Software anyway?
 
-<p class="fragment fade-in">**Now my turn!**</p>
+<span class="fragment fade-in">**Now my turn!**</span>
 
 ---
 
@@ -35,19 +42,19 @@ Some notable figures in computer science's history
 +++
 
 
-<img class="center-img" src="markdown/assets/alan_turing.jpg" />
+<img class="center-img" src="assets/alan_turing.jpg" />
 
 +++
 
-<img class="center-img" src="markdown/assets/dennisritchie5.jpg"  />
+<img class="center-img" src="assets/dennisritchie5.jpg"  />
 
 +++
 
-<img class="center-img" src="markdown/assets/vint_cerf.jpg"  />
+<img class="center-img" src="assets/vint_cerf.jpg"  />
 
 +++
 
-<img class="center-img" src="markdown/assets/stallman.jpg"  />
+<img class="center-img" src="assets/stallman.jpg"  />
 
 ---
 
