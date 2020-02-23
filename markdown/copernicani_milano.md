@@ -1,8 +1,8 @@
 ---
-title: foo
+title: A very charming presentation with Copernicani's logo
 author: Carlo Piana
 theme: css/theme/copernicani.css
-verticalSeparator: ^\+\+\+
+verticalSeparator: ^\+\+\+  
 ---
 
 # Breve forse introduzione al Software Libero <br/>(open source)
@@ -112,7 +112,7 @@ Sono quasi sempre presenti in tutte le licenze:
 <ul>
 <li class="fragment"> <strong>Licenza</strong> di software libero <strong>==</strong> permesso condizionato</li>
 <li class="fragment"> Devo rispettare le condizioni, <span class="fragment">ma!</span></li>
-<li class="fragment"> Solo per chi *distribuisce* software. </li>
+<li class="fragment"> Solo per chi <em>distribuisce</em> software. </li>
 <li class="fragment"> Per gli altri, nessuna preoccupazione</li>
 </ul>
 
@@ -131,20 +131,22 @@ Sono quasi sempre presenti in tutte le licenze:
 
 ---
 
-<!--
-/* --- */
+<!-- .slide:  data-background-image="assets/questions.jpg"  -->
 
-## Where to find out more (advertisement)
 
-<img class="center-img" src="assets/book_piana.jpg" />
+---
 
--->
+<!-- .slide:  data-background-image="assets/thanks.jpg"  -->
+
+---
+<!-- .slide:  data-background-image="assets/thanks.jpg" data-transition="none"  -->
+
 
 ## Grazie!
 
 <div class="bottom">
 <p><strong class="fa-green">©</strong> 2019 - Carlo Piana (some rights reserved) </p>
-<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="assets/cc-by.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 </p>
 
 Presentation [Reveal.js][81aa3153] and a [Markdown](https://daringfireball.net/projects/markdown/syntax) workflow
