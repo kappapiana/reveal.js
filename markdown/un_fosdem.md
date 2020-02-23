@@ -1,3 +1,11 @@
+---
+title: Introduction
+author: Carlo Piana
+theme: css/theme/un.css
+verticalSeparator: ^\+\+\+  
+
+---
+
 # An introduction to UNTIL's
 ## OS and IP Advisory Group
 
@@ -28,14 +36,14 @@ Freedom:
 
 ## Le libertà del software proprietario
 
-<video class="fragment center-img" src="markdown/assets/intervallo.mp4"></video>
+<video class="fragment center-img" src="assets/intervallo.mp4"></video>
 
 ---
 <!-- .slide: data-transition="none" -->
 ## Le libertà del software proprietario
 
 
-<video class="center-img" data-autoplay src="markdown/assets/intervallo.mp4"></video>
+<video class="center-img" data-autoplay src="assets/intervallo.mp4"></video>
 
 ---
 
@@ -44,29 +52,29 @@ Freedom:
 +++
 
 
-<img class="center-img" src="markdown/assets/alan_turing.jpg" />
+<img class="center-img" src="assets/alan_turing.jpg" />
 
 <span class="fragment">**Alan Turing** ("inventore" del computer)</span>
 
 +++
 
-<img class="center-img" src="markdown/assets/dennisritchie5.jpg" style="max-height=500px;"  />
+<img class="center-img" src="assets/dennisritchie5.jpg" style="max-height=500px;"  />
 
 <span class="fragment">**Dennis M Ritchie** ("inventore" del C ‒ linguaggio di programmazione ‒ e di Unix ‒ sistema operativo)</span>
 
 +++
 
-<img class="center-img-large" src="markdown/assets/linux.png"  />
+<img class="center-img-large" src="assets/linux.png"  />
 
 +++
 
-<img class="center-img" src="markdown/assets/torvalds.jpg"  />
+<img class="center-img" src="assets/torvalds.jpg"  />
 
 <span class="fragment"> **Linus Torvalds** ("inventore" di Linux, implementazione libera di UNIX su i386, il **kernel** di sistema operativo più diffuso al mondo)</span>
 
 +++
 
-<img class="center-img" src="markdown/assets/stallman.jpg"  />
+<img class="center-img" src="assets/stallman.jpg"  />
 
 <span class="fragment"> **Richard M Stallman** (RMS, "inventore" di GNU, di Emacs, del copyleft e definitore delle 4 libertà del Software Libero)</span>
 
@@ -74,7 +82,7 @@ Freedom:
 
 ## In principio fu una stampante
 
-<img class="center-img" src="markdown/assets/printer.jpg"  />
+<img class="center-img" src="assets/printer.jpg"  />
 
 ---
 
@@ -85,7 +93,7 @@ Freedom:
 
 ## Copyleft! (copyright, reversed)
 
-<img class="center-img" src="markdown/assets/lock_copyleft.jpg"  />
+<img class="center-img" src="assets/lock_copyleft.jpg"  />
 
 
 ---
@@ -104,21 +112,21 @@ Sono quasi sempre presenti in tutte le licenze:
 ## Compliance
 
 <ul>
-<li > Licenza di software libero **==** permesso condizionato</li>
+<li > Licenza di software libero <strong>==</strong> permesso condizionato</li>
 <li class="fragment"> Devo rispettare le condizioni, <span class="fragment">ma!</span></li>
-<li class="fragment"> Solo per chi *distribuisce* software. </li>
+<li class="fragment"> Solo per chi <em>distribuisce</em> software. </li>
 <li class="fragment"> Per gli altri, nessuna preoccupazione</li>
 </ul>
 
 ---
 ## Public money, public code
 
-<img class="fragment center-img-large" src="markdown/assets/PMPC_sticker_v1.svg" style="height: 550px;" />
+<img class="fragment center-img-large" src="assets/PMPC_sticker_v1.svg" style="height: 550px;" />
 
 ---
 <!-- .slide: data-transition="zoom" -->
 
-<img class="center-img" src="markdown/assets/book_piana.jpg" />
+<img class="center-img" src="assets/book_piana.jpg" />
 
 <p style="font-size: 0.6em;"><https://www.ledizioni.it/prodotto/c-piana-open-source-software-libero-altre-liberta/><br /> <https://it.wikisource.org/wiki/Open_source,_software_libero_e_altre_libertà> (CC-by)</p>
 
@@ -130,7 +138,7 @@ Sono quasi sempre presenti in tutte le licenze:
 
 ## Where to find out more (advertisement)
 
-<img class="center-img" src="markdown/assets/book_piana.jpg" />
+<img class="center-img" src="assets/book_piana.jpg" />
 
 -->
 

@@ -28,6 +28,12 @@ $heading1Size: 2em;
 $heading2Size: 1.38em;
 $heading3Size: 1.4em;
 $heading4Size: 1.0em;
+$logo_image: url(../img/copernicani.png);
+
+// Provide a logo
+// .slide-background {background-image: url(logo_array.png);}
+
+.slide-background {background-image: $logo_image;}
 
 
 // The old white stuff--------------------------
@@ -42,10 +48,31 @@ $heading4Size: 1.0em;
 
 // ---------------------------------------------
 // Provide a logo
+<<<<<<< HEAD
 .slide-background {background-image: url(../img/copernicani.png);
+=======
+.slide-background {
+  // background-image: url(copernicani.png);
+>>>>>>> 63e710c... fixes
   background-size: 18%;
   background-repeat: no-repeat;
   background-position: top 3px left 2%;
 
 }
 // ---------------------------------------------
+
+// Put a logo no matter what
+
+div.reveal::after {content: "©2020 Carlo Piana - Copernicani";
+  display: block;
+  font-size: 0.4em !important;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: unset;
+  font-style: unset;
+  color: $mainColor;
+}

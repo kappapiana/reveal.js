@@ -1,6 +1,13 @@
+---
+title: foo
+author: Carlo Piana
+theme: css/theme/new_white.css
+verticalSeparator: ^\+\+\+  
+---
+
 ## Diritti di privativa diversi dal copyright e licenze di software libero
 
-  <!-- .slide: data-background-image="markdown/assets/" data-background-size="50%" data-background-color=" " data-background-position="top 20px right 5%" data-max-width="200px"-->
+  <!-- .slide: data-background-image="assets/" data-background-size="50%" data-background-color=" " data-background-position="top 20px right 5%" data-max-width="200px"-->
 
 Carlo Piana
 
@@ -16,7 +23,7 @@ Note: https://www.polleverywhere.com/my/polls user pippo@piana.eu pw n3ZG6k3v6Rs
 <!-- .slide: data-background-color="#ccc" -->
 
 
-<img class="center-img" src="markdown/assets/barcode_torino.jpg" />
+  <img class="center-img" src="assets/barcode_torino.jpg" />
 
 ---
 
@@ -114,7 +121,7 @@ Tra i principali diritti e il copyright
 <ul>
 <li class="fragment"> Interazioni con licenze (esclusione) </li>
 <ul>
-<li class="fragment">La licenza pubblica di software **non dà** (di regola) una licenza **sul marchio** </li>
+<li class="fragment">La licenza pubblica di software <strong>non dà</strong> (di regola) una licenza <strong>sul marchio</strong> </li>
 <li class="fragment">La licenza di marchio non è uno dei permessi richiedibili da una licenza copyleft</li>
 </ul>
 <li class="fragment">Allora perché parliamo di marchi? </li>
@@ -166,8 +173,7 @@ Per un marchio FOSS, il rischio è tutt'altro che remoto. Occorre evitare che il
 <li class="fragment">
 Trademark policy
 </li>
-<li class="fragment">
-Controllo della distribuzione in forma **binaria** <span class="fragment">
+<li class="fragment"> Controllo della distribuzione in forma <strong>binaria</strong> <span class="fragment">
 (es.: Firefox, Red Hat)</span>
 </li>
 <li class="fragment">Solo i "binari" rilasciati dal titolare possono recare il marchio (controllo di qualità)</li>
@@ -303,7 +309,7 @@ La crittografia si basa su:
 <ul>
 <li class="fragment">Qualcosa che solo qualcuno è (es.: biometria)</li>
 <li class="fragment">Qualcosa che solo qualcuno ha, possiede fisicamente (dispositivi, chiavi fisiche)</li>
-<li class="fragment">Qualcosa che solo qualcuno sa, possiede logicamente (informazioni **segrete**, come una chiave privata di crittografia)</li>
+<li class="fragment">Qualcosa che solo qualcuno sa, possiede logicamente (informazioni <strong>segrete</strong>, come una chiave privata di crittografia)</li>
 </ul>
 
 ---

@@ -1,3 +1,11 @@
+---
+title: Free Software Legal 101
+author: Carlo Piana
+theme: css/theme/new_white.css
+verticalSeparator: ^\+\+\+  
+---
+
+
 # Free Software Legal 101
 
 ## FSFE Track
@@ -31,9 +39,9 @@ Nobody writes software from scratch!
 <ul>
 <li class="fragment">You take some code</li>
 <li class="fragment">That code has its own conditions</li>
-<li class="fragment">Conditions of software you are reusing is called **inbound** </li>
-<li class="fragment">Conditions of software you are *distributing* is called **outbound**</li>
-<li class="fragment">If software contains substantial fragments of other software, it is a **derivative**.</li>
+<li class="fragment">Conditions of software you are reusing is called <strong>inbound</strong> </li>
+<li class="fragment">Conditions of software you are *distributing* is called <strong>outbound</strong></li>
+<li class="fragment">If software contains substantial fragments of other software, it is a <strong>derivative</strong>.</li>
 <li class="fragment">Derivative software needs permission from the original(s)</li>
 </ul>
 ---
@@ -43,8 +51,8 @@ Nobody writes software from scratch!
 A license can be very simple and just permit whatever to whomever. But with most licenses, **permission** is granted only *provided that* you comply with **conditions**
 
 <ul>
-<li class="fragment">**If** condition is complied with, **then** you can {modify, distribute original or modified software}</li>
-<li class="fragment"> **If** condition **is not** complied with, **then** you cannot {modify, distribute original or modified software}</li>
+<li class="fragment"><strong>If</strong> condition is complied with, <strong>then</strong> you can {modify, distribute original or modified software}</li>
+<li class="fragment"> <strong>If</strong> condition <strong>is not</strong> complied with, <strong>then</strong> you cannot {modify, distribute original or modified software}</li>
 </ul>
 
 +++
@@ -53,9 +61,9 @@ A license can be very simple and just permit whatever to whomever. But with most
 
 No, copyleft is a *subclass* of  Free Software conditions.
 <ul>
-<li class="fragment">Conditions impact on **outbound** software, and outbound license</li>
+<li class="fragment">Conditions impact on <strong>outbound</strong> software, and outbound license</li>
 <li class="fragment">One condition is <strong>"inbound license == outbound license"</strong></li>
-<li class="fragment">Depending on the scope of this condition (just the library, the file or the entire derivative), we have **"strong"** or **"weak copyleft"**
+<li class="fragment">Depending on the scope of this condition (just the library, the file or the entire derivative), we have <strong>"strong"</strong> or <strong>"weak copyleft"</strong>
 </li>
 ---
 
@@ -119,7 +127,7 @@ Find more at <https://www.openchainproject.org/>
   <li> "find cheaters"</li>
   <li> find accurate licensing information in the text and record them</li>
   </ul>
-<li class="fragment">Most popular: **Fossology** (open source project)</li>
+<li class="fragment">Most popular: <strong>Fossology</strong> (open source project)</li>
 <li class="fragment">Needs to be included in CD/CI:</li>
 <li class="fragment">CD/CI/<strong class="fragment">CC</strong></li>
 <li class="fragment">DepTree</li>
@@ -139,7 +147,7 @@ Talk to us <!-- .element class="fragment" -->
 
 ## Where to find out more (advertisement)
 
-<img class="center-img" src="markdown/assets/book_piana.jpg" />
+<img class="center-img" src="assets/book_piana.jpg" />
 
 
 ---

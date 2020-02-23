@@ -21,20 +21,32 @@
 $backgroundColor: #fcfcfc;
 $highlight_color: #da2233;
 $linkColor: $highlight_color;
+<<<<<<< HEAD:css/theme/source/array_white.scss
 $mainColor: rgb(54, 63, 68);
+=======
+$mainColor: #222;
+>>>>>>> 2c7b961... using yaml to manage md:css/theme/source/new_white.scss
 $heading1Size: 2em;
 $heading2Size: 1.38em;
 $heading3Size: 1.4em;
 $heading4Size: 1.0em;
-
+$headingFont: courier;
+$logo_image: url(../img/logo_array.png);
 
 // Provide a logo
+<<<<<<< HEAD:css/theme/source/array_white.scss
 .slide-background {background-image: url(../img/logo_array.png);}
+=======
+// .slide-background {background-image: url(logo_array.png);}
+>>>>>>> 63e710c... fixes:css/theme/source/new_white.scss
 
+.slide-background {background-image: $logo_image;}
 
 // The old white stuff--------------------------
 @import "../template/subtemplate";
 
+<<<<<<< HEAD:css/theme/source/array_white.scss
+<<<<<<< HEAD:css/theme/source/array_white.scss
 .reveal ul {list-style-type: none;}
 
 ul > li:before {
@@ -49,3 +61,34 @@ ul > li:before {
 ul ul > li:before {
   content: ""; /* empty */
   }
+=======
+div.reveal::after {content: "©2020 Carlo Piana - Array";
+  display: block;
+  font-size: 0.4em !important;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: unset;
+  font-style: unset;
+  color: $mainColor;
+}
+>>>>>>> 4fab5fc... css: Add a footer as css stuff:css/theme/source/new_white.scss
+=======
+
+// div.reveal::after {content: "©2020 Carlo Piana - Array";
+//   display: block;
+//   font-size: 0.4em !important;
+//   position: absolute;
+//   bottom: 8px;
+//   width: 100%;
+//   text-align: center;
+//   margin-left: auto;
+//   margin-right: auto;
+//   font-family: unset;
+//   font-style: unset;
+//   color: $mainColor;
+// }
+>>>>>>> 63e710c... fixes:css/theme/source/new_white.scss

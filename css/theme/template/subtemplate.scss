@@ -12,6 +12,7 @@ $headingTextTransform: uppercase;
 $headingFontWeight: 600;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
+$logo_image: none;
 
 
 section.has-dark-background {
@@ -35,9 +36,13 @@ section.has-dark-background {
 .reveal strong {color: $highlight_color;}
 
 .slide-background {
+<<<<<<< HEAD
 // .slide-background {background-image: $logo_image;
   background-size:
 	12.5%,auto;
+=======
+  background-size: 12.5%;
+>>>>>>> 63e710c... fixes
   background-repeat: no-repeat;
   background-position: top 20px left 15px, top 20px right 20px;
 }
@@ -88,8 +93,13 @@ section.has-dark-background {
 		margin-left: auto;
 		margin-right: auto;
 		min-height: 60%;
+<<<<<<< HEAD
   	max-width: 95%;
   	max-height: 95%;
+=======
+		max-width: 95%;
+		max-height: 95%;
+>>>>>>> 3309adc... css: fix large image
 		background: none;
 		box-shadow: none;
 		border: 0px;
@@ -121,4 +131,21 @@ section.has-dark-background {
 
 	.fa-green {color: darkgreen;}
 
+<<<<<<< HEAD
 	.fa-strong {color: $highlight_color; font-weight: bold; }
+=======
+	.fa-strong {color: $highlight_color;}
+
+	// Fragments -----------------
+
+	.reveal .slides section .fragment.highlight-bold,
+ {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: $highlight_color }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: $highlight_color }
+>>>>>>> 4bd01b1... fragment, turn into Bold (whichever color it is)

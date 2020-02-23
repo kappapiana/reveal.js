@@ -1,10 +1,13 @@
-@charset "UTF-8";
 /**
  * White theme for reveal.js. This is the opposite of the 'black' theme.
  *
  * By Hakim El Hattab, http://hakim.se
  */
+<<<<<<< HEAD
 @import url(../lib/font/source-sans-pro/source-sans-pro.css);
+=======
+@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+>>>>>>> 63e710c... fixes
 .slide-background {
   background-image: url(../img/logo_array.png); }
 
@@ -20,9 +23,15 @@ body {
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
+<<<<<<< HEAD
   font-size: 37px;
   font-weight: normal;
   color: #363f44; }
+=======
+  font-size: 44px;
+  font-weight: normal;
+  color: #222; }
+>>>>>>> 63e710c... fixes
 
 ::selection {
   color: #fff;
@@ -55,7 +64,11 @@ body {
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: uppercase;
+<<<<<<< HEAD
   text-shadow: 1px 2px #363f44;
+=======
+  text-shadow: 1px 2px #222;
+>>>>>>> 63e710c... fixes
   word-wrap: break-word; }
 
 .reveal h1 {
@@ -71,7 +84,11 @@ body {
   font-size: 1em; }
 
 .reveal h1 {
+<<<<<<< HEAD
   text-shadow: 1px 2px #363f44; }
+=======
+  text-shadow: 1px 2px #222; }
+>>>>>>> 63e710c... fixes
 
 /*********************************************
  * OTHER
@@ -234,7 +251,11 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
+<<<<<<< HEAD
   border: 4px solid #363f44;
+=======
+  border: 4px solid #222;
+>>>>>>> 63e710c... fixes
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
@@ -284,9 +305,15 @@ body {
   color: #da2233; }
 
 .slide-background {
+<<<<<<< HEAD
   background-size: 12.5%,auto;
   background-repeat: no-repeat;
   background-position: top 20px left 15px, top 20px right 20px; }
+=======
+  background-size: 12.5%;
+  background-repeat: no-repeat;
+  background-position: top 20px left 15px; }
+>>>>>>> 63e710c... fixes
 
 .reveal .dom {
   background-color: rgba(250, 250, 250, 0.4);
@@ -319,6 +346,7 @@ body {
   border: 0px;
   position: relative; }
 
+<<<<<<< HEAD
 .reveal .normativa {
   font-size: 0.65em;
   font-family: monospace;
@@ -327,6 +355,8 @@ body {
 .reveal .center {
   text-align: center; }
 
+=======
+>>>>>>> 63e710c... fixes
 .reveal .center-img-large {
   display: block;
   margin-left: auto;
@@ -338,15 +368,19 @@ body {
   box-shadow: none;
   border: 0px; }
 
+<<<<<<< HEAD
 .reveal .borderless {
   border: none; }
 
+=======
+>>>>>>> 63e710c... fixes
 .small {
   font-size: 0.6em !important;
   font-family: sans-serif;
   margin-right: 10%;
   margin-left: 5%; }
 
+<<<<<<< HEAD
 .reveal .slides section .fragment.highlight-bold {
   opacity: 1;
   visibility: inherit; }
@@ -357,6 +391,8 @@ body {
 .reveal .slides section .fragment.highlight-current-bold.current-fragment {
   color: #da2233; }
 
+=======
+>>>>>>> 63e710c... fixes
 .fa-red {
   color: #cc0000; }
 
@@ -364,6 +400,8 @@ body {
   color: darkgreen; }
 
 .fa-strong {
+<<<<<<< HEAD
+<<<<<<< HEAD:css/theme/array_white.css
   color: #da2233;
   font-weight: bold; }
 
@@ -380,3 +418,38 @@ ul > li:before {
 ul ul > li:before {
   content: "";
   /* empty */ }
+=======
+=======
+>>>>>>> 63e710c... fixes
+  color: #da2233; }
+
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: #da2233; }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: #da2233; }
+<<<<<<< HEAD
+<<<<<<<< HEAD:css/theme/array_white.css
+
+div.reveal::after {
+  content: "©2020 Carlo Piana - Array";
+  display: block;
+  font-size: 0.4em !important;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: unset;
+  font-style: unset;
+  color: #222; }
+>>>>>>> 4fab5fc... css: Add a footer as css stuff:css/theme/new_white.css
+========
+>>>>>>>> 63e710c... fixes:css/theme/new_white.css
+=======
+>>>>>>> 63e710c... fixes

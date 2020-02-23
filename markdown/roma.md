@@ -1,3 +1,11 @@
+---
+title: Software Libero e open source
+author: Carlo Piana
+theme: css/theme/new_white.css
+verticalSeparator: ^\+\+\+  
+---
+
+
 <!-- .slide: data-background-image="markdown/assets/logo_array.png" data-background-size="20%" data-background-color=" " data-background-position="bottom 200px right 40%" data-max-width="200px"-->
 
 # Software libero e open source

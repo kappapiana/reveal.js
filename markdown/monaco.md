@@ -1,3 +1,10 @@
+---
+title: foo
+author: Carlo Piana
+theme: css/theme/new_white.css
+verticalSeparator: ^\+\+\+  
+---
+
 # A git-enabled workflow
 
 ## For document cooperative drafting
@@ -5,7 +12,7 @@
 Carlo Piana
 
 **Array**
-  https://array.eu 
+  https://array.eu
 
 Munich, November 2018
 ---
