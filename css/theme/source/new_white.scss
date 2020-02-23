@@ -34,3 +34,17 @@ $heading4Size: 1.0em;
 
 // The old white stuff--------------------------
 @import "../template/subtemplate";
+
+div.reveal::after {content: "©2020 Carlo Piana - Array";
+  display: block;
+  font-size: 0.4em !important;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: unset;
+  font-style: unset;
+  color: $mainColor;
+}
