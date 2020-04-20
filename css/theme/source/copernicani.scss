@@ -14,7 +14,7 @@
 
 
 // Include theme-specific fonts
-@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+@import url(../lib/font/source-sans-pro/source-sans-pro.css);
 // @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 // @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
 
@@ -42,7 +42,7 @@ $heading4Size: 1.0em;
 
 // ---------------------------------------------
 // Provide a logo
-.slide-background {background-image: url(copernicani.png);
+.slide-background {background-image: url(../img/copernicani.png);
   background-size: 18%;
   background-repeat: no-repeat;
   background-position: top 3px left 2%;
