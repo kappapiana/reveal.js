@@ -32,6 +32,8 @@ $linkColor: #2a76dd;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
+$highlight_color: #da2233;
+
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
 $heading3Size: 1.3em;
@@ -45,5 +47,5 @@ section.has-dark-background {
 
 
 // Theme template ------------------------------
-@import "../template/theme";
+@import "../template/subtemplate";
 // ---------------------------------------------
