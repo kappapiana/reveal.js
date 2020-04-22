@@ -343,6 +343,16 @@ body {
 .fa-strong {
   color: #5b92e5; }
 
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: #5b92e5; }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: #5b92e5; }
+
 .slide-background {
   background-image: url(until-logo.svg);
   background-size: 15%;

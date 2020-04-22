@@ -345,6 +345,16 @@ body {
 .fa-strong {
   color: #da2233; }
 
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: #da2233; }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: #da2233; }
+
 div.reveal::after {
   content: "©2020 Carlo Piana - Array";
   display: block;

@@ -344,6 +344,16 @@ body {
 .fa-strong {
   color: #0FBE7C; }
 
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: #0FBE7C; }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: #0FBE7C; }
+
 .slide-background {
   background-image: url(copernicani.png);
   background-size: 18%;

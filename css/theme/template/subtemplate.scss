@@ -102,3 +102,16 @@ section.has-dark-background {
 	.fa-green {color: darkgreen;}
 
 	.fa-strong {color: $highlight_color;}
+
+	// Fragments -----------------
+
+	.reveal .slides section .fragment.highlight-bold,
+ {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: $highlight_color }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: $highlight_color }
