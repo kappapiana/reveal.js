@@ -12,6 +12,7 @@ $headingTextTransform: uppercase;
 $headingFontWeight: 600;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
+$logo_image: none;
 
 
 section.has-dark-background {
@@ -35,7 +36,6 @@ section.has-dark-background {
 .reveal strong {color: $highlight_color;}
 
 .slide-background {
-// .slide-background {background-image: $logo_image;
   background-size: 12.5%;
   background-repeat: no-repeat;
   background-position: top 20px left 15px;

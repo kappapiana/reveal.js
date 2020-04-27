@@ -28,6 +28,12 @@ $heading1Size: 2em;
 $heading2Size: 1.38em;
 $heading3Size: 1.4em;
 $heading4Size: 1.0em;
+$logo_image: url(../img/copernicani.png);
+
+// Provide a logo
+// .slide-background {background-image: url(logo_array.png);}
+
+.slide-background {background-image: $logo_image;}
 
 
 // The old white stuff--------------------------
@@ -42,7 +48,8 @@ $heading4Size: 1.0em;
 
 // ---------------------------------------------
 // Provide a logo
-.slide-background {background-image: url(copernicani.png);
+.slide-background {
+  // background-image: url(copernicani.png);
   background-size: 18%;
   background-repeat: no-repeat;
   background-position: top 3px left 2%;
