@@ -283,9 +283,9 @@ body {
   color: #da2233; }
 
 .slide-background {
-  background-size: 12.5%;
+  background-size: 12.5%,auto;
   background-repeat: no-repeat;
-  background-position: top 20px left 15px; }
+  background-position: top 20px left 15px, top 20px right 20px; }
 
 .reveal .dom {
   background-color: rgba(250, 250, 250, 0.4);

@@ -36,10 +36,10 @@ section.has-dark-background {
 
 .slide-background {
 // .slide-background {background-image: $logo_image;
-  background-size: 12.5%;
+  background-size:
+	12.5%,auto;
   background-repeat: no-repeat;
-  background-position: top 20px left 15px;
-
+  background-position: top 20px left 15px, top 20px right 20px;
 }
 
 .reveal .dom {
