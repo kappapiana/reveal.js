@@ -358,7 +358,6 @@ body {
   font-weight: bold; }
 
 .slide-background {
-  background-image: url(until-logo.svg);
-  background-size: 15%;
-  background-repeat: no-repeat;
-  background-position: top 15px left 1%; }
+  background-image: url(../img/until-logo.svg);
+  background-size: 10%;
+  background-repeat: no-repeat; }
