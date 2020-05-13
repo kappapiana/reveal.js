@@ -80,8 +80,9 @@ section.has-dark-background {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		max-width: 950%;
-		max-height: 650px;
+		min-height: 60%;
+  	max-width: 95%;
+  	max-height: 95%;
 		background: none;
 		box-shadow: none;
 		border: 0px;
@@ -95,6 +96,17 @@ section.has-dark-background {
 	  margin-left: 5%;
 	}
 
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: $highlight_color; }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: $highlight_color; }
+
+
 // Colors -----------------
 
 
@@ -102,4 +114,4 @@ section.has-dark-background {
 
 	.fa-green {color: darkgreen;}
 
-	.fa-strong {color: $highlight_color;}
+	.fa-strong {color: $highlight_color; font-weight: bold; }

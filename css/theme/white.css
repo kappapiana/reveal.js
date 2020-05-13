@@ -322,8 +322,9 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 950%;
-  max-height: 650px;
+  min-height: 60%;
+  max-width: 95%;
+  max-height: 95%;
   background: none;
   box-shadow: none;
   border: 0px; }
@@ -337,6 +338,16 @@ body {
   margin-right: 10%;
   margin-left: 5%; }
 
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: #da2233; }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: #da2233; }
+
 .fa-red {
   color: #cc0000; }
 
@@ -344,4 +355,5 @@ body {
   color: darkgreen; }
 
 .fa-strong {
-  color: #da2233; }
+  color: #da2233;
+  font-weight: bold; }
