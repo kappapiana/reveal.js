@@ -2,7 +2,7 @@
 
 $headingColor: $highlight_color;
 
-$mainFontSize: 44px;
+$mainFontSize: 37px;
 $mainFont: 'Source Sans Pro', Helvetica, sans-serif;
 $headingFont: 'Source Sans Pro', Helvetica, sans-serif;
 $headingTextShadow: 1px 2px $mainColor;
@@ -75,6 +75,10 @@ section.has-dark-background {
 		border: 0px;
 		position:  relative;
 }
+
+.reveal .normativa {font-size: 0.65em; color: #627;}
+
+.reveal .center {text-align: center;}
 
 .reveal .center-img-large {
 		display: block;
