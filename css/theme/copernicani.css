@@ -361,6 +361,9 @@ body {
 .fa-green {
   color: darkgreen; }
 
+.fa-gray, .fa-grey {
+  color: #CCC; }
+
 .fa-strong {
   color: #0FBE7C;
   font-weight: bold; }

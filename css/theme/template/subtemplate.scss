@@ -114,11 +114,13 @@ section.has-dark-background {
   color: $highlight_color; }
 
 
-// Colors -----------------
+// Colors for Font-awesome -----------------
 
 
 	.fa-red {color: #cc0000; }
 
 	.fa-green {color: darkgreen;}
+
+	.fa-gray, .fa-grey {color: #CCC;	} // US-GB spellings alike
 
 	.fa-strong {color: $highlight_color; font-weight: bold; }
