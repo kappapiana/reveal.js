@@ -2,7 +2,7 @@
 
 $headingColor: $highlight_color;
 
-$mainFontSize: 37px;
+$mainFontSize: 44px;
 $mainFont: 'Source Sans Pro', Helvetica, sans-serif;
 $headingFont: 'Source Sans Pro', Helvetica, sans-serif;
 $headingTextShadow: 1px 2px $mainColor;
@@ -12,7 +12,7 @@ $headingTextTransform: uppercase;
 $headingFontWeight: 600;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
-$logo_image: none;
+
 
 
 section.has-dark-background {
@@ -36,12 +36,11 @@ section.has-dark-background {
 .reveal strong {color: $highlight_color;}
 
 .slide-background {
-
 // .slide-background {background-image: $logo_image;
-  background-size:
-	12.5%,auto;
+  background-size: 12.5%;
   background-repeat: no-repeat;
-  background-position: top 20px left 15px, top 20px right 20px;
+  background-position: top 20px left 15px;
+
 }
 
 .reveal .dom {
@@ -78,24 +77,16 @@ section.has-dark-background {
 		position:  relative;
 }
 
-.reveal .normativa {
-  font-size: 0.65em;
-  font-family: monospace;
-  color: #1a1aac; }
-
-.reveal .center {text-align: center;}
-
 .reveal .center-img-large {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		min-height: 60%;
+		max-width: 950%;
+		max-height: 650px;
 		background: none;
 		box-shadow: none;
 		border: 0px;
 	}
-
-	.reveal .borderless {border: none;}
 
 	.small {font-size: 0.6em !important;
 	  font-family: sans-serif;

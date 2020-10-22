@@ -284,9 +284,9 @@ body {
   color: #da2233; }
 
 .slide-background {
-  background-size: 12.5%,auto;
+  background-size: 12.5%;
   background-repeat: no-repeat;
-  background-position: top 20px left 15px, top 20px right 20px; }
+  background-position: top 20px left 15px; }
 
 .reveal .dom {
   background-color: rgba(250, 250, 250, 0.4);
@@ -332,6 +332,11 @@ body {
   margin-left: auto;
   margin-right: auto;
   min-height: 60%;
+<<<<<<<< HEAD:css/theme/array_white.css
+========
+  max-width: 95%;
+  max-height: 95%;
+>>>>>>>> 955d1f3778f1bb58db0df5124238d07456e82cae:css/theme/new_white.css
   background: none;
   box-shadow: none;
   border: 0px; }
@@ -378,6 +383,7 @@ body {
 .reveal .slides section .fragment.highlight-current-bold.current-fragment {
   color: #da2233; }
 
+<<<<<<<< HEAD:css/theme/array_white.css
 #footer-left::after {
   content: "change footer in custom CSS | #footer-left::after "; }
 
@@ -409,3 +415,14 @@ ul > li:before {
 ul ul > li:before {
   content: "";
   /* empty */ }
+========
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: #da2233; }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: #da2233; }
+>>>>>>>> 955d1f3778f1bb58db0df5124238d07456e82cae:css/theme/new_white.css
