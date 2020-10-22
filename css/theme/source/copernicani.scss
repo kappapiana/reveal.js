@@ -56,19 +56,3 @@ $logo_image: url(../img/copernicani.png);
 
 }
 // ---------------------------------------------
-
-// Put a logo no matter what
-
-div.reveal::after {content: "©2020 Carlo Piana - Copernicani";
-  display: block;
-  font-size: 0.4em !important;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  font-family: unset;
-  font-style: unset;
-  color: $mainColor;
-}
