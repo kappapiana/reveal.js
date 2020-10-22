@@ -124,3 +124,33 @@ section.has-dark-background {
 	.fa-gray, .fa-grey {color: #CCC;	} // US-GB spellings alike
 
 	.fa-strong {color: $highlight_color; font-weight: bold; }
+
+// Some more stuff for slides and footer
+
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit; }
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  color: $highlight_color; }
+
+.reveal .slides section .fragment.highlight-current-bold.current-fragment {
+  color: $highlight_color; }
+
+#footer-left::after {
+  content: "change footer in custom CSS | #footer-left::after "; }
+
+#footer-left {
+  font-size: 0.3em !important;
+  position: absolute;
+  bottom: 1%;
+  left: 0%;
+  /* position: absolute;
+    bottom: -2em; */
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: unset;
+  font-style: unset;
+  color: $highlight_color; }
