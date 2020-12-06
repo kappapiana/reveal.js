@@ -276,6 +276,17 @@ body {
   .backgrounds {
     background-color: #fcfcfc; } }
 
+.left, .right {
+  width: 50%;
+  position: fixed;
+  overflow-x: hidden; }
+
+.left {
+  left: 0; }
+
+.right {
+  right: 0; }
+
 .reveal .slides {
   text-align: left;
   line-height: 1.15em; }
