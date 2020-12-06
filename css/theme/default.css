@@ -351,6 +351,18 @@ body {
   box-shadow: none;
   border: 0px; }
 
+.reveal .right-img, .reveal .letf-img {
+  clear: none;
+  max-width: 40%;
+  max-height: 80%;
+  min-height: 70%; }
+
+.reveal .right-img {
+  float: right; }
+
+.reveal .letf-img {
+  float: left; }
+
 .reveal .borderless {
   border: none; }
 
