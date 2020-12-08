@@ -111,15 +111,17 @@ section.has-dark-background {
 		border: 0px;
 	}
 
-	.reveal .right-img, .reveal .letf-img  {
+	.reveal .right-img, .reveal .left-img  {
   clear: none;
   max-width: 40%;
   max-height: 80%;
-  min-height: 70%;}
+  min-height: 70%;
+	border: none;
+	box-shadow: none;}
 
 	.reveal .right-img {float: right;}
 
-	.reveal .letf-img {float: left;}
+	.reveal .left-img {float: left;}
 
 
 	.reveal .borderless {border: none;}
